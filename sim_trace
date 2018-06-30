@@ -1,0 +1,1710 @@
+u: Cliente at 0.0: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 0.0: Bomba 1 escolhida para abastecimento
+u: Cliente at 0.0: start pausing
+u: Saida at 0.0: waiting for an event
+u: Pagamento at 0.0: waiting for an event
+u: Bomba3 at 0.0: waiting for an event
+u: Bomba2 at 0.0: waiting for an event
+u: Bomba1 at 0.0: waiting for an event
+u: Bomba1 at 0.0: start processing
+u: Bomba1 at 23.134796220732174: event type 1 completed service
+u: Bomba1 at 23.134796220732174: Veiculo enviado ao Pagamento
+u: Bomba1 at 23.134796220732174: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 23.134796220732174: waiting for an event
+u: Pagamento at 23.134796220732174: start processing
+u: Cliente at 28.516546344512406: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 28.516546344512406: Bomba 3 escolhida para abastecimento
+u: Cliente at 28.516546344512406: start pausing
+u: Bomba3 at 28.516546344512406: start processing
+u: Cliente at 32.033025187862705: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 32.033025187862705: Bomba 2 escolhida para abastecimento
+u: Cliente at 32.033025187862705: start pausing
+u: Bomba2 at 32.033025187862705: start processing
+u: Cliente at 57.01783034256845: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 57.01783034256845: Bomba 1 escolhida para abastecimento
+u: Cliente at 57.01783034256845: start pausing
+u: Bomba1 at 57.01783034256845: start processing
+u: Bomba2 at 74.2134649499474: event type 1 completed service
+u: Bomba2 at 74.2134649499474: Veiculo enviado ao Pagamento
+u: Bomba2 at 74.2134649499474: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 74.2134649499474: waiting for an event
+u: Bomba1 at 80.01871221142689: event type 1 completed service
+u: Bomba1 at 80.01871221142689: Veiculo enviado ao Pagamento
+u: Bomba1 at 80.01871221142689: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 80.01871221142689: waiting for an event
+u: Pagamento at 83.54602820597749: event type 1 completed service
+u: Pagamento at 83.54602820597749: Disk1 selected for I/O work.
+u: Pagamento at 83.54602820597749: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 83.54602820597749: selected event type 1 (event time was 74.2134649499474)
+u: Pagamento at 83.54602820597749: start processing
+u: Saida at 83.54602820597749: Cliente terminou
+u: Saida at 83.54602820597749: start processing
+u: Cliente at 102.99175314492277: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 102.99175314492277: Bomba 2 escolhida para abastecimento
+u: Cliente at 102.99175314492277: start pausing
+u: Bomba2 at 102.99175314492277: start processing
+u: Saida at 112.29537727056778: event type 1 completed service
+u: Saida at 112.29537727056778: waiting for an event
+u: Bomba3 at 128.0264792675639: event type 1 completed service
+u: Bomba3 at 128.0264792675639: Veiculo enviado ao Pagamento
+u: Bomba3 at 128.0264792675639: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 128.0264792675639: waiting for an event
+u: Cliente at 131.93225751242744: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 131.93225751242744: Bomba 3 escolhida para abastecimento
+u: Cliente at 131.93225751242744: start pausing
+u: Bomba3 at 131.93225751242744: start processing
+u: Pagamento at 138.68449766639537: event type 1 completed service
+u: Pagamento at 138.68449766639537: Disk1 selected for I/O work.
+u: Pagamento at 138.68449766639537: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 138.68449766639537: selected event type 1 (event time was 80.01871221142689)
+u: Pagamento at 138.68449766639537: start processing
+u: Saida at 138.68449766639537: Cliente terminou
+u: Saida at 138.68449766639537: start processing
+u: Bomba2 at 145.1982288569564: event type 1 completed service
+u: Bomba2 at 145.1982288569564: Veiculo enviado ao Pagamento
+u: Bomba2 at 145.1982288569564: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 145.1982288569564: waiting for an event
+u: Cliente at 155.356647540145: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 155.356647540145: Bomba 1 escolhida para abastecimento
+u: Cliente at 155.356647540145: start pausing
+u: Bomba1 at 155.356647540145: start processing
+u: Cliente at 166.33305428590873: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 166.33305428590873: Bomba 3 escolhida para abastecimento
+u: Cliente at 166.33305428590873: start pausing
+u: Saida at 171.92223771541387: event type 1 completed service
+u: Saida at 171.92223771541387: waiting for an event
+u: Bomba1 at 181.08242767016915: event type 1 completed service
+u: Bomba1 at 181.08242767016915: Veiculo enviado ao Pagamento
+u: Bomba1 at 181.08242767016915: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 181.08242767016915: waiting for an event
+u: Cliente at 184.34613008730506: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 184.34613008730506: Bomba 2 escolhida para abastecimento
+u: Cliente at 184.34613008730506: start pausing
+u: Bomba2 at 184.34613008730506: start processing
+u: Cliente at 185.14958430222978: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 185.14958430222978: Bomba 1 escolhida para abastecimento
+u: Cliente at 185.14958430222978: start pausing
+u: Bomba1 at 185.14958430222978: start processing
+u: Cliente at 194.35296125160406: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 194.35296125160406: Bomba 2 escolhida para abastecimento
+u: Cliente at 194.35296125160406: start pausing
+u: Pagamento at 199.8397866912665: event type 1 completed service
+u: Pagamento at 199.8397866912665: Disk1 selected for I/O work.
+u: Pagamento at 199.8397866912665: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 199.8397866912665: selected event type 1 (event time was 128.0264792675639)
+u: Pagamento at 199.8397866912665: start processing
+u: Saida at 199.8397866912665: Cliente terminou
+u: Saida at 199.8397866912665: start processing
+u: Bomba1 at 209.28081843528918: event type 1 completed service
+u: Bomba1 at 209.28081843528918: Veiculo enviado ao Pagamento
+u: Bomba1 at 209.28081843528918: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 209.28081843528918: waiting for an event
+u: Cliente at 215.0545271405117: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 215.0545271405117: Bomba 3 escolhida para abastecimento
+u: Cliente at 215.0545271405117: start pausing
+u: Bomba2 at 223.5275455734361: event type 1 completed service
+u: Bomba2 at 223.5275455734361: Veiculo enviado ao Pagamento
+u: Bomba2 at 223.5275455734361: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 223.5275455734361: selected event type 1 (event time was 194.35296125160406)
+u: Bomba2 at 223.5275455734361: start processing
+u: Saida at 226.77461465977314: event type 1 completed service
+u: Saida at 226.77461465977314: waiting for an event
+u: Bomba3 at 233.20055096221353: event type 1 completed service
+u: Bomba3 at 233.20055096221353: Veiculo enviado ao Pagamento
+u: Bomba3 at 233.20055096221353: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 233.20055096221353: selected event type 1 (event time was 166.33305428590873)
+u: Bomba3 at 233.20055096221353: start processing
+u: Cliente at 242.5536523141305: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 242.5536523141305: Bomba 1 escolhida para abastecimento
+u: Cliente at 242.5536523141305: start pausing
+u: Bomba1 at 242.5536523141305: start processing
+u: Cliente at 259.86808235499046: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 259.86808235499046: Bomba 3 escolhida para abastecimento
+u: Cliente at 259.86808235499046: start pausing
+u: Pagamento at 260.7076516424589: event type 1 completed service
+u: Pagamento at 260.7076516424589: Disk1 selected for I/O work.
+u: Pagamento at 260.7076516424589: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 260.7076516424589: selected event type 1 (event time was 145.1982288569564)
+u: Pagamento at 260.7076516424589: start processing
+u: Saida at 260.7076516424589: Cliente terminou
+u: Saida at 260.7076516424589: start processing
+u: Cliente at 261.6441729935466: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 261.6441729935466: Bomba 2 escolhida para abastecimento
+u: Cliente at 261.6441729935466: start pausing
+u: Cliente at 261.9628217777559: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 261.9628217777559: Bomba 1 escolhida para abastecimento
+u: Cliente at 261.9628217777559: start pausing
+u: Bomba2 at 262.94911367991483: event type 1 completed service
+u: Bomba2 at 262.94911367991483: Veiculo enviado ao Pagamento
+u: Bomba2 at 262.94911367991483: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 262.94911367991483: selected event type 1 (event time was 261.6441729935466)
+u: Bomba2 at 262.94911367991483: start processing
+u: Bomba1 at 264.63471995782885: event type 1 completed service
+u: Bomba1 at 264.63471995782885: Veiculo enviado ao Pagamento
+u: Bomba1 at 264.63471995782885: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 264.63471995782885: selected event type 1 (event time was 261.9628217777559)
+u: Bomba1 at 264.63471995782885: start processing
+u: Cliente at 265.3549720883859: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 265.3549720883859: Bomba 2 escolhida para abastecimento
+u: Cliente at 265.3549720883859: start pausing
+u: Cliente at 266.80490040765835: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 266.80490040765835: Bomba 3 escolhida para abastecimento
+u: Cliente at 266.80490040765835: start pausing
+u: Bomba1 at 286.32052532884796: event type 1 completed service
+u: Bomba1 at 286.32052532884796: Veiculo enviado ao Pagamento
+u: Bomba1 at 286.32052532884796: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 286.32052532884796: waiting for an event
+u: Saida at 292.5514551624681: event type 1 completed service
+u: Saida at 292.5514551624681: waiting for an event
+u: Cliente at 293.13079854114403: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 293.13079854114403: Bomba 1 escolhida para abastecimento
+u: Cliente at 293.13079854114403: start pausing
+u: Bomba1 at 293.13079854114403: start processing
+u: Bomba2 at 299.22177600529153: event type 1 completed service
+u: Bomba2 at 299.22177600529153: Veiculo enviado ao Pagamento
+u: Bomba2 at 299.22177600529153: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 299.22177600529153: selected event type 1 (event time was 265.3549720883859)
+u: Bomba2 at 299.22177600529153: start processing
+u: Cliente at 305.75468787107593: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 305.75468787107593: Bomba 3 escolhida para abastecimento
+u: Cliente at 305.75468787107593: start pausing
+u: Bomba1 at 315.63273358612963: event type 1 completed service
+u: Bomba1 at 315.63273358612963: Veiculo enviado ao Pagamento
+u: Bomba1 at 315.63273358612963: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 315.63273358612963: waiting for an event
+u: Cliente at 319.2882222889881: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 319.2882222889881: Bomba 2 escolhida para abastecimento
+u: Cliente at 319.2882222889881: start pausing
+u: Pagamento at 323.38868365742064: event type 1 completed service
+u: Pagamento at 323.38868365742064: Disk1 selected for I/O work.
+u: Pagamento at 323.38868365742064: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 323.38868365742064: selected event type 1 (event time was 181.08242767016915)
+u: Pagamento at 323.38868365742064: start processing
+u: Saida at 323.38868365742064: Cliente terminou
+u: Saida at 323.38868365742064: start processing
+u: Bomba3 at 333.52601812253397: event type 1 completed service
+u: Bomba3 at 333.52601812253397: Veiculo enviado ao Pagamento
+u: Bomba3 at 333.52601812253397: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 333.52601812253397: selected event type 1 (event time was 215.0545271405117)
+u: Bomba3 at 333.52601812253397: start processing
+u: Bomba2 at 344.422722408075: event type 1 completed service
+u: Bomba2 at 344.422722408075: Veiculo enviado ao Pagamento
+u: Bomba2 at 344.422722408075: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 344.422722408075: selected event type 1 (event time was 319.2882222889881)
+u: Bomba2 at 344.422722408075: start processing
+u: Saida at 353.6463584534136: event type 1 completed service
+u: Saida at 353.6463584534136: waiting for an event
+u: Cliente at 359.57876163081283: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 359.57876163081283: Bomba 1 escolhida para abastecimento
+u: Cliente at 359.57876163081283: start pausing
+u: Bomba1 at 359.57876163081283: start processing
+u: Bomba1 at 380.5590218636368: event type 1 completed service
+u: Bomba1 at 380.5590218636368: Veiculo enviado ao Pagamento
+u: Bomba1 at 380.5590218636368: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 380.5590218636368: waiting for an event
+u: Bomba2 at 382.8770616011147: event type 1 completed service
+u: Bomba2 at 382.8770616011147: Veiculo enviado ao Pagamento
+u: Bomba2 at 382.8770616011147: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 382.8770616011147: waiting for an event
+u: Pagamento at 384.4126395246459: event type 1 completed service
+u: Pagamento at 384.4126395246459: Disk1 selected for I/O work.
+u: Pagamento at 384.4126395246459: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 384.4126395246459: selected event type 1 (event time was 209.28081843528918)
+u: Pagamento at 384.4126395246459: start processing
+u: Saida at 384.4126395246459: Cliente terminou
+u: Saida at 384.4126395246459: start processing
+u: Cliente at 385.57558091944145: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 385.57558091944145: Bomba 2 escolhida para abastecimento
+u: Cliente at 385.57558091944145: start pausing
+u: Bomba2 at 385.57558091944145: start processing
+u: Bomba2 at 416.3085573778454: event type 1 completed service
+u: Bomba2 at 416.3085573778454: Veiculo enviado ao Pagamento
+u: Bomba2 at 416.3085573778454: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 416.3085573778454: waiting for an event
+u: Saida at 416.5121333149189: event type 1 completed service
+u: Saida at 416.5121333149189: waiting for an event
+u: Cliente at 431.38711217174864: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 431.38711217174864: Bomba 3 escolhida para abastecimento
+u: Cliente at 431.38711217174864: start pausing
+u: Bomba3 at 432.14900641423344: event type 1 completed service
+u: Bomba3 at 432.14900641423344: Veiculo enviado ao Pagamento
+u: Bomba3 at 432.14900641423344: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 432.14900641423344: selected event type 1 (event time was 259.86808235499046)
+u: Bomba3 at 432.14900641423344: start processing
+u: Pagamento at 445.1687312433456: event type 1 completed service
+u: Pagamento at 445.1687312433456: Disk1 selected for I/O work.
+u: Pagamento at 445.1687312433456: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 445.1687312433456: selected event type 1 (event time was 223.5275455734361)
+u: Pagamento at 445.1687312433456: start processing
+u: Saida at 445.1687312433456: Cliente terminou
+u: Saida at 445.1687312433456: start processing
+u: Cliente at 446.62793323109304: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 446.62793323109304: Bomba 1 escolhida para abastecimento
+u: Cliente at 446.62793323109304: start pausing
+u: Bomba1 at 446.62793323109304: start processing
+u: Bomba1 at 471.09038263506494: event type 1 completed service
+u: Bomba1 at 471.09038263506494: Veiculo enviado ao Pagamento
+u: Bomba1 at 471.09038263506494: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 471.09038263506494: waiting for an event
+u: Saida at 473.8956881372687: event type 1 completed service
+u: Saida at 473.8956881372687: waiting for an event
+u: Cliente at 487.6275802850726: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 487.6275802850726: Bomba 3 escolhida para abastecimento
+u: Cliente at 487.6275802850726: start pausing
+u: Cliente at 509.75346654212103: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 509.75346654212103: Bomba 2 escolhida para abastecimento
+u: Cliente at 509.75346654212103: start pausing
+u: Bomba2 at 509.75346654212103: start processing
+u: Pagamento at 510.06423852092723: event type 1 completed service
+u: Pagamento at 510.06423852092723: Disk1 selected for I/O work.
+u: Pagamento at 510.06423852092723: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 510.06423852092723: selected event type 1 (event time was 233.20055096221353)
+u: Pagamento at 510.06423852092723: start processing
+u: Saida at 510.06423852092723: Cliente terminou
+u: Saida at 510.06423852092723: start processing
+u: Bomba3 at 533.557351390418: event type 1 completed service
+u: Bomba3 at 533.557351390418: Veiculo enviado ao Pagamento
+u: Bomba3 at 533.557351390418: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 533.557351390418: selected event type 1 (event time was 266.80490040765835)
+u: Bomba3 at 533.557351390418: start processing
+u: Cliente at 536.3620590767714: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 536.3620590767714: Bomba 1 escolhida para abastecimento
+u: Cliente at 536.3620590767714: start pausing
+u: Bomba1 at 536.3620590767714: start processing
+u: Saida at 544.7999061131475: event type 1 completed service
+u: Saida at 544.7999061131475: waiting for an event
+u: Cliente at 547.0929253038697: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 547.0929253038697: Bomba 2 escolhida para abastecimento
+u: Cliente at 547.0929253038697: start pausing
+u: Bomba2 at 553.752539954332: event type 1 completed service
+u: Bomba2 at 553.752539954332: Veiculo enviado ao Pagamento
+u: Bomba2 at 553.752539954332: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 553.752539954332: selected event type 1 (event time was 547.0929253038697)
+u: Bomba2 at 553.752539954332: start processing
+u: Bomba1 at 559.5080572527689: event type 1 completed service
+u: Bomba1 at 559.5080572527689: Veiculo enviado ao Pagamento
+u: Bomba1 at 559.5080572527689: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 559.5080572527689: waiting for an event
+u: Pagamento at 569.9309311737246: event type 1 completed service
+u: Pagamento at 569.9309311737246: Disk1 selected for I/O work.
+u: Pagamento at 569.9309311737246: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 569.9309311737246: selected event type 1 (event time was 262.94911367991483)
+u: Pagamento at 569.9309311737246: start processing
+u: Saida at 569.9309311737246: Cliente terminou
+u: Saida at 569.9309311737246: start processing
+u: Cliente at 575.940560323061: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 575.940560323061: Bomba 3 escolhida para abastecimento
+u: Cliente at 575.940560323061: start pausing
+u: Bomba2 at 594.9600394289179: event type 1 completed service
+u: Bomba2 at 594.9600394289179: Veiculo enviado ao Pagamento
+u: Bomba2 at 594.9600394289179: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 594.9600394289179: waiting for an event
+u: Cliente at 597.9758934083096: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 597.9758934083096: Bomba 1 escolhida para abastecimento
+u: Cliente at 597.9758934083096: start pausing
+u: Bomba1 at 597.9758934083096: start processing
+u: Saida at 598.7096661069967: event type 1 completed service
+u: Saida at 598.7096661069967: waiting for an event
+u: Cliente at 615.0406525214482: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 615.0406525214482: Bomba 3 escolhida para abastecimento
+u: Cliente at 615.0406525214482: start pausing
+u: Bomba1 at 623.827075718653: event type 1 completed service
+u: Bomba1 at 623.827075718653: Veiculo enviado ao Pagamento
+u: Bomba1 at 623.827075718653: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 623.827075718653: waiting for an event
+u: Pagamento at 629.1421226457283: event type 1 completed service
+u: Pagamento at 629.1421226457283: Disk1 selected for I/O work.
+u: Pagamento at 629.1421226457283: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 629.1421226457283: selected event type 1 (event time was 264.63471995782885)
+u: Pagamento at 629.1421226457283: start processing
+u: Saida at 629.1421226457283: Cliente terminou
+u: Saida at 629.1421226457283: start processing
+u: Cliente at 630.4014007307292: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 630.4014007307292: Bomba 2 escolhida para abastecimento
+u: Cliente at 630.4014007307292: start pausing
+u: Bomba2 at 630.4014007307292: start processing
+u: Bomba3 at 631.770755889052: event type 1 completed service
+u: Bomba3 at 631.770755889052: Veiculo enviado ao Pagamento
+u: Bomba3 at 631.770755889052: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 631.770755889052: selected event type 1 (event time was 305.75468787107593)
+u: Bomba3 at 631.770755889052: start processing
+u: Cliente at 657.3508927748578: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 657.3508927748578: Bomba 1 escolhida para abastecimento
+u: Cliente at 657.3508927748578: start pausing
+u: Bomba1 at 657.3508927748578: start processing
+u: Cliente at 663.9631771106287: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 663.9631771106287: Bomba 2 escolhida para abastecimento
+u: Cliente at 663.9631771106287: start pausing
+u: Saida at 664.3743966204609: event type 1 completed service
+u: Saida at 664.3743966204609: waiting for an event
+u: Bomba2 at 673.9955172595118: event type 1 completed service
+u: Bomba2 at 673.9955172595118: Veiculo enviado ao Pagamento
+u: Bomba2 at 673.9955172595118: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 673.9955172595118: selected event type 1 (event time was 663.9631771106287)
+u: Bomba2 at 673.9955172595118: start processing
+u: Pagamento at 681.7369022317132: event type 1 completed service
+u: Pagamento at 681.7369022317132: Disk1 selected for I/O work.
+u: Pagamento at 681.7369022317132: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 681.7369022317132: selected event type 1 (event time was 286.32052532884796)
+u: Pagamento at 681.7369022317132: start processing
+u: Saida at 681.7369022317132: Cliente terminou
+u: Saida at 681.7369022317132: start processing
+u: Bomba1 at 683.3008987051109: event type 1 completed service
+u: Bomba1 at 683.3008987051109: Veiculo enviado ao Pagamento
+u: Bomba1 at 683.3008987051109: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 683.3008987051109: waiting for an event
+u: Cliente at 688.1156450921156: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 688.1156450921156: Bomba 3 escolhida para abastecimento
+u: Cliente at 688.1156450921156: start pausing
+u: Cliente at 690.9675052485645: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 690.9675052485645: Bomba 1 escolhida para abastecimento
+u: Cliente at 690.9675052485645: start pausing
+u: Bomba1 at 690.9675052485645: start processing
+u: Saida at 713.9532994144238: event type 1 completed service
+u: Saida at 713.9532994144238: waiting for an event
+u: Bomba2 at 714.044004714304: event type 1 completed service
+u: Bomba2 at 714.044004714304: Veiculo enviado ao Pagamento
+u: Bomba2 at 714.044004714304: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 714.044004714304: waiting for an event
+u: Cliente at 715.696670442981: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 715.696670442981: Bomba 3 escolhida para abastecimento
+u: Cliente at 715.696670442981: start pausing
+u: Bomba1 at 717.2786727080266: event type 1 completed service
+u: Bomba1 at 717.2786727080266: Veiculo enviado ao Pagamento
+u: Bomba1 at 717.2786727080266: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 717.2786727080266: waiting for an event
+u: Cliente at 722.8473652135241: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 722.8473652135241: Bomba 2 escolhida para abastecimento
+u: Cliente at 722.8473652135241: start pausing
+u: Bomba2 at 722.8473652135241: start processing
+u: Cliente at 731.5189459471283: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 731.5189459471283: Bomba 1 escolhida para abastecimento
+u: Cliente at 731.5189459471283: start pausing
+u: Bomba1 at 731.5189459471283: start processing
+u: Cliente at 731.8329318290364: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 731.8329318290364: Bomba 2 escolhida para abastecimento
+u: Cliente at 731.8329318290364: start pausing
+u: Bomba3 at 732.8234986935815: event type 1 completed service
+u: Bomba3 at 732.8234986935815: Veiculo enviado ao Pagamento
+u: Bomba3 at 732.8234986935815: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 732.8234986935815: selected event type 1 (event time was 431.38711217174864)
+u: Bomba3 at 732.8234986935815: start processing
+u: Pagamento at 741.9907597047621: event type 1 completed service
+u: Pagamento at 741.9907597047621: Disk1 selected for I/O work.
+u: Pagamento at 741.9907597047621: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 741.9907597047621: selected event type 1 (event time was 299.22177600529153)
+u: Pagamento at 741.9907597047621: start processing
+u: Saida at 741.9907597047621: Cliente terminou
+u: Saida at 741.9907597047621: start processing
+u: Bomba1 at 752.0725378188428: event type 1 completed service
+u: Bomba1 at 752.0725378188428: Veiculo enviado ao Pagamento
+u: Bomba1 at 752.0725378188428: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 752.0725378188428: waiting for an event
+u: Cliente at 754.5184778122742: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 754.5184778122742: Bomba 3 escolhida para abastecimento
+u: Cliente at 754.5184778122742: start pausing
+u: Bomba2 at 764.2926279091798: event type 1 completed service
+u: Bomba2 at 764.2926279091798: Veiculo enviado ao Pagamento
+u: Bomba2 at 764.2926279091798: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 764.2926279091798: selected event type 1 (event time was 731.8329318290364)
+u: Bomba2 at 764.2926279091798: start processing
+u: Cliente at 764.4429676174237: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 764.4429676174237: Bomba 1 escolhida para abastecimento
+u: Cliente at 764.4429676174237: start pausing
+u: Bomba1 at 764.4429676174237: start processing
+u: Saida at 771.5699104388425: event type 1 completed service
+u: Saida at 771.5699104388425: waiting for an event
+u: Cliente at 776.0213548739295: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 776.0213548739295: Bomba 3 escolhida para abastecimento
+u: Cliente at 776.0213548739295: start pausing
+u: Cliente at 781.2423502339361: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 781.2423502339361: Bomba 2 escolhida para abastecimento
+u: Cliente at 781.2423502339361: start pausing
+u: Bomba1 at 790.7085314662847: event type 1 completed service
+u: Bomba1 at 790.7085314662847: Veiculo enviado ao Pagamento
+u: Bomba1 at 790.7085314662847: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 790.7085314662847: waiting for an event
+u: Pagamento at 800.4025301848062: event type 1 completed service
+u: Pagamento at 800.4025301848062: Disk1 selected for I/O work.
+u: Pagamento at 800.4025301848062: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 800.4025301848062: selected event type 1 (event time was 315.63273358612963)
+u: Pagamento at 800.4025301848062: start processing
+u: Saida at 800.4025301848062: Cliente terminou
+u: Saida at 800.4025301848062: start processing
+u: Cliente at 805.1089182883575: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 805.1089182883575: Bomba 1 escolhida para abastecimento
+u: Cliente at 805.1089182883575: start pausing
+u: Bomba1 at 805.1089182883575: start processing
+u: Bomba2 at 806.4622622888592: event type 1 completed service
+u: Bomba2 at 806.4622622888592: Veiculo enviado ao Pagamento
+u: Bomba2 at 806.4622622888592: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 806.4622622888592: selected event type 1 (event time was 781.2423502339361)
+u: Bomba2 at 806.4622622888592: start processing
+u: Saida at 831.0047093255655: event type 1 completed service
+u: Saida at 831.0047093255655: waiting for an event
+u: Bomba1 at 831.1255657124092: event type 1 completed service
+u: Bomba1 at 831.1255657124092: Veiculo enviado ao Pagamento
+u: Bomba1 at 831.1255657124092: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 831.1255657124092: waiting for an event
+u: Bomba3 at 834.4535207057228: event type 1 completed service
+u: Bomba3 at 834.4535207057228: Veiculo enviado ao Pagamento
+u: Bomba3 at 834.4535207057228: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 834.4535207057228: selected event type 1 (event time was 487.6275802850726)
+u: Bomba3 at 834.4535207057228: start processing
+u: Bomba2 at 848.3721874655399: event type 1 completed service
+u: Bomba2 at 848.3721874655399: Veiculo enviado ao Pagamento
+u: Bomba2 at 848.3721874655399: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 848.3721874655399: waiting for an event
+u: Pagamento at 858.482758602898: event type 1 completed service
+u: Pagamento at 858.482758602898: Disk1 selected for I/O work.
+u: Pagamento at 858.482758602898: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 858.482758602898: selected event type 1 (event time was 333.52601812253397)
+u: Pagamento at 858.482758602898: start processing
+u: Saida at 858.482758602898: Cliente terminou
+u: Saida at 858.482758602898: start processing
+u: Cliente at 859.901044390136: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 859.901044390136: Bomba 2 escolhida para abastecimento
+u: Cliente at 859.901044390136: start pausing
+u: Bomba2 at 859.901044390136: start processing
+u: Cliente at 865.7182558884667: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 865.7182558884667: Bomba 3 escolhida para abastecimento
+u: Cliente at 865.7182558884667: start pausing
+u: Saida at 885.4401846168375: event type 1 completed service
+u: Saida at 885.4401846168375: waiting for an event
+u: Bomba2 at 900.6145095119032: event type 1 completed service
+u: Bomba2 at 900.6145095119032: Veiculo enviado ao Pagamento
+u: Bomba2 at 900.6145095119032: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 900.6145095119032: waiting for an event
+u: Pagamento at 912.2292455659003: event type 1 completed service
+u: Pagamento at 912.2292455659003: Disk1 selected for I/O work.
+u: Pagamento at 912.2292455659003: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 912.2292455659003: selected event type 1 (event time was 344.422722408075)
+u: Pagamento at 912.2292455659003: start processing
+u: Saida at 912.2292455659003: Cliente terminou
+u: Saida at 912.2292455659003: start processing
+u: Cliente at 918.0000831057888: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 918.0000831057888: Bomba 1 escolhida para abastecimento
+u: Cliente at 918.0000831057888: start pausing
+u: Bomba1 at 918.0000831057888: start processing
+u: Cliente at 923.7466120953219: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 923.7466120953219: Bomba 3 escolhida para abastecimento
+u: Cliente at 923.7466120953219: start pausing
+u: Bomba3 at 939.1783596925337: event type 1 completed service
+u: Bomba3 at 939.1783596925337: Veiculo enviado ao Pagamento
+u: Bomba3 at 939.1783596925337: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 939.1783596925337: selected event type 1 (event time was 575.940560323061)
+u: Bomba3 at 939.1783596925337: start processing
+u: Saida at 940.2938726787514: event type 1 completed service
+u: Saida at 940.2938726787514: waiting for an event
+u: Cliente at 940.5913016103985: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 940.5913016103985: Bomba 2 escolhida para abastecimento
+u: Cliente at 940.5913016103985: start pausing
+u: Bomba2 at 940.5913016103985: start processing
+u: Bomba1 at 943.7707415202547: event type 1 completed service
+u: Bomba1 at 943.7707415202547: Veiculo enviado ao Pagamento
+u: Bomba1 at 943.7707415202547: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 943.7707415202547: waiting for an event
+u: Pagamento at 971.7863560427397: event type 1 completed service
+u: Pagamento at 971.7863560427397: Disk1 selected for I/O work.
+u: Pagamento at 971.7863560427397: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 971.7863560427397: selected event type 1 (event time was 380.5590218636368)
+u: Pagamento at 971.7863560427397: start processing
+u: Saida at 971.7863560427397: Cliente terminou
+u: Saida at 971.7863560427397: start processing
+u: Bomba2 at 981.3123882432926: event type 1 completed service
+u: Bomba2 at 981.3123882432926: Veiculo enviado ao Pagamento
+u: Bomba2 at 981.3123882432926: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 981.3123882432926: waiting for an event
+u: Saida at 999.5607185012295: event type 1 completed service
+u: Saida at 999.5607185012295: waiting for an event
+u: Cliente at 1012.0432546926916: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 1012.0432546926916: Bomba 1 escolhida para abastecimento
+u: Cliente at 1012.0432546926916: start pausing
+u: Bomba1 at 1012.0432546926916: start processing
+u: Pagamento at 1029.1103286432433: event type 1 completed service
+u: Pagamento at 1029.1103286432433: Disk1 selected for I/O work.
+u: Pagamento at 1029.1103286432433: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 1029.1103286432433: selected event type 1 (event time was 382.8770616011147)
+u: Pagamento at 1029.1103286432433: start processing
+u: Saida at 1029.1103286432433: Cliente terminou
+u: Saida at 1029.1103286432433: start processing
+u: Bomba3 at 1033.5998393890536: event type 1 completed service
+u: Bomba3 at 1033.5998393890536: Veiculo enviado ao Pagamento
+u: Bomba3 at 1033.5998393890536: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 1033.5998393890536: selected event type 1 (event time was 615.0406525214482)
+u: Bomba3 at 1033.5998393890536: start processing
+u: Cliente at 1038.1192868785868: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 1038.1192868785868: Bomba 2 escolhida para abastecimento
+u: Cliente at 1038.1192868785868: start pausing
+u: Bomba2 at 1038.1192868785868: start processing
+u: Cliente at 1038.4550255716379: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 1038.4550255716379: Bomba 3 escolhida para abastecimento
+u: Cliente at 1038.4550255716379: start pausing
+u: Bomba1 at 1038.4781217745262: event type 1 completed service
+u: Bomba1 at 1038.4781217745262: Veiculo enviado ao Pagamento
+u: Bomba1 at 1038.4781217745262: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 1038.4781217745262: waiting for an event
+u: Cliente at 1045.7284886319082: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 1045.7284886319082: Bomba 1 escolhida para abastecimento
+u: Cliente at 1045.7284886319082: start pausing
+u: Bomba1 at 1045.7284886319082: start processing
+u: Cliente at 1059.436870987407: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 1059.436870987407: Bomba 3 escolhida para abastecimento
+u: Cliente at 1059.436870987407: start pausing
+u: Saida at 1062.4529686052895: event type 1 completed service
+u: Saida at 1062.4529686052895: waiting for an event
+u: Cliente at 1069.5413137651822: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 1069.5413137651822: Bomba 2 escolhida para abastecimento
+u: Cliente at 1069.5413137651822: start pausing
+u: Bomba1 at 1070.6643814954823: event type 1 completed service
+u: Bomba1 at 1070.6643814954823: Veiculo enviado ao Pagamento
+u: Bomba1 at 1070.6643814954823: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 1070.6643814954823: waiting for an event
+u: Bomba2 at 1077.7654834850243: event type 1 completed service
+u: Bomba2 at 1077.7654834850243: Veiculo enviado ao Pagamento
+u: Bomba2 at 1077.7654834850243: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 1077.7654834850243: selected event type 1 (event time was 1069.5413137651822)
+u: Bomba2 at 1077.7654834850243: start processing
+u: Cliente at 1086.7955235528289: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 1086.7955235528289: Bomba 1 escolhida para abastecimento
+u: Cliente at 1086.7955235528289: start pausing
+u: Bomba1 at 1086.7955235528289: start processing
+u: Pagamento at 1087.2194900730822: event type 1 completed service
+u: Pagamento at 1087.2194900730822: Disk1 selected for I/O work.
+u: Pagamento at 1087.2194900730822: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 1087.2194900730822: selected event type 1 (event time was 416.3085573778454)
+u: Pagamento at 1087.2194900730822: start processing
+u: Saida at 1087.2194900730822: Cliente terminou
+u: Saida at 1087.2194900730822: start processing
+u: Cliente at 1089.0965990371865: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 1089.0965990371865: Bomba 2 escolhida para abastecimento
+u: Cliente at 1089.0965990371865: start pausing
+u: Cliente at 1112.104603973399: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 1112.104603973399: Bomba 3 escolhida para abastecimento
+u: Cliente at 1112.104603973399: start pausing
+u: Bomba2 at 1114.9897727743792: event type 1 completed service
+u: Bomba2 at 1114.9897727743792: Veiculo enviado ao Pagamento
+u: Bomba2 at 1114.9897727743792: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 1114.9897727743792: selected event type 1 (event time was 1089.0965990371865)
+u: Bomba2 at 1114.9897727743792: start processing
+u: Bomba1 at 1115.6270199646017: event type 1 completed service
+u: Bomba1 at 1115.6270199646017: Veiculo enviado ao Pagamento
+u: Bomba1 at 1115.6270199646017: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 1115.6270199646017: waiting for an event
+u: Saida at 1117.1025584259048: event type 1 completed service
+u: Saida at 1117.1025584259048: waiting for an event
+u: Cliente at 1123.737660809058: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 1123.737660809058: Bomba 1 escolhida para abastecimento
+u: Cliente at 1123.737660809058: start pausing
+u: Bomba1 at 1123.737660809058: start processing
+u: Cliente at 1133.1616576295087: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 1133.1616576295087: Bomba 3 escolhida para abastecimento
+u: Cliente at 1133.1616576295087: start pausing
+u: Bomba3 at 1134.899122412981: event type 1 completed service
+u: Bomba3 at 1134.899122412981: Veiculo enviado ao Pagamento
+u: Bomba3 at 1134.899122412981: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 1134.899122412981: selected event type 1 (event time was 688.1156450921156)
+u: Bomba3 at 1134.899122412981: start processing
+u: Bomba1 at 1146.0429644810608: event type 1 completed service
+u: Bomba1 at 1146.0429644810608: Veiculo enviado ao Pagamento
+u: Bomba1 at 1146.0429644810608: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 1146.0429644810608: waiting for an event
+u: Pagamento at 1146.663868869358: event type 1 completed service
+u: Pagamento at 1146.663868869358: Disk1 selected for I/O work.
+u: Pagamento at 1146.663868869358: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 1146.663868869358: selected event type 1 (event time was 432.14900641423344)
+u: Pagamento at 1146.663868869358: start processing
+u: Saida at 1146.663868869358: Cliente terminou
+u: Saida at 1146.663868869358: start processing
+u: Cliente at 1146.8808940384736: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 1146.8808940384736: Bomba 2 escolhida para abastecimento
+u: Cliente at 1146.8808940384736: start pausing
+u: Bomba2 at 1152.1023387472808: event type 1 completed service
+u: Bomba2 at 1152.1023387472808: Veiculo enviado ao Pagamento
+u: Bomba2 at 1152.1023387472808: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 1152.1023387472808: selected event type 1 (event time was 1146.8808940384736)
+u: Bomba2 at 1152.1023387472808: start processing
+u: Cliente at 1163.634870821417: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 1163.634870821417: Bomba 1 escolhida para abastecimento
+u: Cliente at 1163.634870821417: start pausing
+u: Bomba1 at 1163.634870821417: start processing
+u: Cliente at 1165.671590600779: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 1165.671590600779: Bomba 2 escolhida para abastecimento
+u: Cliente at 1165.671590600779: start pausing
+u: Cliente at 1173.87658530206: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 1173.87658530206: Bomba 3 escolhida para abastecimento
+u: Cliente at 1173.87658530206: start pausing
+u: Saida at 1174.8795024409562: event type 1 completed service
+u: Saida at 1174.8795024409562: waiting for an event
+u: Cliente at 1176.3801403682162: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 1176.3801403682162: Bomba 1 escolhida para abastecimento
+u: Cliente at 1176.3801403682162: start pausing
+u: Bomba1 at 1185.718615396346: event type 1 completed service
+u: Bomba1 at 1185.718615396346: Veiculo enviado ao Pagamento
+u: Bomba1 at 1185.718615396346: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 1185.718615396346: selected event type 1 (event time was 1176.3801403682162)
+u: Bomba1 at 1185.718615396346: start processing
+u: Bomba2 at 1196.0436659509837: event type 1 completed service
+u: Bomba2 at 1196.0436659509837: Veiculo enviado ao Pagamento
+u: Bomba2 at 1196.0436659509837: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 1196.0436659509837: selected event type 1 (event time was 1165.671590600779)
+u: Bomba2 at 1196.0436659509837: start processing
+u: Cliente at 1196.1654388903792: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 1196.1654388903792: Bomba 3 escolhida para abastecimento
+u: Cliente at 1196.1654388903792: start pausing
+u: Bomba1 at 1203.9889316458814: event type 1 completed service
+u: Bomba1 at 1203.9889316458814: Veiculo enviado ao Pagamento
+u: Bomba1 at 1203.9889316458814: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 1203.9889316458814: waiting for an event
+u: Cliente at 1206.1683176392019: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 1206.1683176392019: Bomba 2 escolhida para abastecimento
+u: Cliente at 1206.1683176392019: start pausing
+u: Pagamento at 1212.006555611289: event type 1 completed service
+u: Pagamento at 1212.006555611289: Disk1 selected for I/O work.
+u: Pagamento at 1212.006555611289: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 1212.006555611289: selected event type 1 (event time was 471.09038263506494)
+u: Pagamento at 1212.006555611289: start processing
+u: Saida at 1212.006555611289: Cliente terminou
+u: Saida at 1212.006555611289: start processing
+u: Cliente at 1222.3019486808441: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 1222.3019486808441: Bomba 1 escolhida para abastecimento
+u: Cliente at 1222.3019486808441: start pausing
+u: Bomba1 at 1222.3019486808441: start processing
+u: Bomba2 at 1234.826251249446: event type 1 completed service
+u: Bomba2 at 1234.826251249446: Veiculo enviado ao Pagamento
+u: Bomba2 at 1234.826251249446: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 1234.826251249446: selected event type 1 (event time was 1206.1683176392019)
+u: Bomba2 at 1234.826251249446: start processing
+u: Cliente at 1234.9413897973948: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 1234.9413897973948: Bomba 2 escolhida para abastecimento
+u: Cliente at 1234.9413897973948: start pausing
+u: Bomba3 at 1235.815363101377: event type 1 completed service
+u: Bomba3 at 1235.815363101377: Veiculo enviado ao Pagamento
+u: Bomba3 at 1235.815363101377: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 1235.815363101377: selected event type 1 (event time was 715.696670442981)
+u: Bomba3 at 1235.815363101377: start processing
+u: Saida at 1244.1255601043413: event type 1 completed service
+u: Saida at 1244.1255601043413: waiting for an event
+u: Bomba1 at 1245.0065067024896: event type 1 completed service
+u: Bomba1 at 1245.0065067024896: Veiculo enviado ao Pagamento
+u: Bomba1 at 1245.0065067024896: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 1245.0065067024896: waiting for an event
+u: Cliente at 1248.935711772576: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 1248.935711772576: Bomba 3 escolhida para abastecimento
+u: Cliente at 1248.935711772576: start pausing
+u: Pagamento at 1273.338797259513: event type 1 completed service
+u: Pagamento at 1273.338797259513: Disk1 selected for I/O work.
+u: Pagamento at 1273.338797259513: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 1273.338797259513: selected event type 1 (event time was 533.557351390418)
+u: Pagamento at 1273.338797259513: start processing
+u: Saida at 1273.338797259513: Cliente terminou
+u: Saida at 1273.338797259513: start processing
+u: Bomba2 at 1274.6124488906453: event type 1 completed service
+u: Bomba2 at 1274.6124488906453: Veiculo enviado ao Pagamento
+u: Bomba2 at 1274.6124488906453: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 1274.6124488906453: selected event type 1 (event time was 1234.9413897973948)
+u: Bomba2 at 1274.6124488906453: start processing
+u: Cliente at 1287.7787857389935: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 1287.7787857389935: Bomba 1 escolhida para abastecimento
+u: Cliente at 1287.7787857389935: start pausing
+u: Bomba1 at 1287.7787857389935: start processing
+u: Cliente at 1292.9389192511258: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 1292.9389192511258: Bomba 3 escolhida para abastecimento
+u: Cliente at 1292.9389192511258: start pausing
+u: Saida at 1311.9083833115333: event type 1 completed service
+u: Saida at 1311.9083833115333: waiting for an event
+u: Bomba2 at 1313.1771777651695: event type 1 completed service
+u: Bomba2 at 1313.1771777651695: Veiculo enviado ao Pagamento
+u: Bomba2 at 1313.1771777651695: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 1313.1771777651695: waiting for an event
+u: Bomba1 at 1315.292698853143: event type 1 completed service
+u: Bomba1 at 1315.292698853143: Veiculo enviado ao Pagamento
+u: Bomba1 at 1315.292698853143: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 1315.292698853143: waiting for an event
+u: Bomba3 at 1338.0382491555215: event type 1 completed service
+u: Bomba3 at 1338.0382491555215: Veiculo enviado ao Pagamento
+u: Bomba3 at 1338.0382491555215: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 1338.0382491555215: selected event type 1 (event time was 754.5184778122742)
+u: Bomba3 at 1338.0382491555215: start processing
+u: Pagamento at 1338.6217736853764: event type 1 completed service
+u: Pagamento at 1338.6217736853764: Disk1 selected for I/O work.
+u: Pagamento at 1338.6217736853764: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 1338.6217736853764: selected event type 1 (event time was 553.752539954332)
+u: Pagamento at 1338.6217736853764: start processing
+u: Saida at 1338.6217736853764: Cliente terminou
+u: Saida at 1338.6217736853764: start processing
+u: Saida at 1365.2734088803268: event type 1 completed service
+u: Saida at 1365.2734088803268: waiting for an event
+u: Cliente at 1373.0697804374195: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 1373.0697804374195: Bomba 2 escolhida para abastecimento
+u: Cliente at 1373.0697804374195: start pausing
+u: Bomba2 at 1373.0697804374195: start processing
+u: Pagamento at 1399.8807575637732: event type 1 completed service
+u: Pagamento at 1399.8807575637732: Disk1 selected for I/O work.
+u: Pagamento at 1399.8807575637732: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 1399.8807575637732: selected event type 1 (event time was 559.5080572527689)
+u: Pagamento at 1399.8807575637732: start processing
+u: Saida at 1399.8807575637732: Cliente terminou
+u: Saida at 1399.8807575637732: start processing
+u: Bomba2 at 1415.6804941656633: event type 1 completed service
+u: Bomba2 at 1415.6804941656633: Veiculo enviado ao Pagamento
+u: Bomba2 at 1415.6804941656633: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 1415.6804941656633: waiting for an event
+u: Saida at 1431.242494606837: event type 1 completed service
+u: Saida at 1431.242494606837: waiting for an event
+u: Cliente at 1441.87403582209: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 1441.87403582209: Bomba 1 escolhida para abastecimento
+u: Cliente at 1441.87403582209: start pausing
+u: Bomba1 at 1441.87403582209: start processing
+u: Bomba3 at 1442.792991999859: event type 1 completed service
+u: Bomba3 at 1442.792991999859: Veiculo enviado ao Pagamento
+u: Bomba3 at 1442.792991999859: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 1442.792991999859: selected event type 1 (event time was 776.0213548739295)
+u: Bomba3 at 1442.792991999859: start processing
+u: Pagamento at 1461.9638377797407: event type 1 completed service
+u: Pagamento at 1461.9638377797407: Disk1 selected for I/O work.
+u: Pagamento at 1461.9638377797407: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 1461.9638377797407: selected event type 1 (event time was 594.9600394289179)
+u: Pagamento at 1461.9638377797407: start processing
+u: Saida at 1461.9638377797407: Cliente terminou
+u: Saida at 1461.9638377797407: start processing
+u: Bomba1 at 1467.6126677857126: event type 1 completed service
+u: Bomba1 at 1467.6126677857126: Veiculo enviado ao Pagamento
+u: Bomba1 at 1467.6126677857126: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 1467.6126677857126: waiting for an event
+u: Cliente at 1468.8515933922142: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 1468.8515933922142: Bomba 2 escolhida para abastecimento
+u: Cliente at 1468.8515933922142: start pausing
+u: Bomba2 at 1468.8515933922142: start processing
+u: Saida at 1489.6214198905102: event type 1 completed service
+u: Saida at 1489.6214198905102: waiting for an event
+u: Bomba2 at 1506.1000315052897: event type 1 completed service
+u: Bomba2 at 1506.1000315052897: Veiculo enviado ao Pagamento
+u: Bomba2 at 1506.1000315052897: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 1506.1000315052897: waiting for an event
+u: Pagamento at 1522.8514703210715: event type 1 completed service
+u: Pagamento at 1522.8514703210715: Disk1 selected for I/O work.
+u: Pagamento at 1522.8514703210715: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 1522.8514703210715: selected event type 1 (event time was 623.827075718653)
+u: Pagamento at 1522.8514703210715: start processing
+u: Saida at 1522.8514703210715: Cliente terminou
+u: Saida at 1522.8514703210715: start processing
+u: Bomba3 at 1538.1090671996112: event type 1 completed service
+u: Bomba3 at 1538.1090671996112: Veiculo enviado ao Pagamento
+u: Bomba3 at 1538.1090671996112: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 1538.1090671996112: selected event type 1 (event time was 865.7182558884667)
+u: Bomba3 at 1538.1090671996112: start processing
+u: Saida at 1554.6329543232257: event type 1 completed service
+u: Saida at 1554.6329543232257: waiting for an event
+u: Cliente at 1578.6022208157551: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 1578.6022208157551: Bomba 3 escolhida para abastecimento
+u: Cliente at 1578.6022208157551: start pausing
+u: Pagamento at 1582.6015138179957: event type 1 completed service
+u: Pagamento at 1582.6015138179957: Disk1 selected for I/O work.
+u: Pagamento at 1582.6015138179957: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 1582.6015138179957: selected event type 1 (event time was 631.770755889052)
+u: Pagamento at 1582.6015138179957: start processing
+u: Saida at 1582.6015138179957: Cliente terminou
+u: Saida at 1582.6015138179957: start processing
+u: Cliente at 1594.5529830836317: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 1594.5529830836317: Bomba 1 escolhida para abastecimento
+u: Cliente at 1594.5529830836317: start pausing
+u: Bomba1 at 1594.5529830836317: start processing
+u: Cliente at 1606.9655266090085: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 1606.9655266090085: Bomba 3 escolhida para abastecimento
+u: Cliente at 1606.9655266090085: start pausing
+u: Saida at 1616.8324385650394: event type 1 completed service
+u: Saida at 1616.8324385650394: waiting for an event
+u: Bomba1 at 1620.270287955564: event type 1 completed service
+u: Bomba1 at 1620.270287955564: Veiculo enviado ao Pagamento
+u: Bomba1 at 1620.270287955564: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 1620.270287955564: waiting for an event
+u: Cliente at 1620.3049990862512: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 1620.3049990862512: Bomba 2 escolhida para abastecimento
+u: Cliente at 1620.3049990862512: start pausing
+u: Bomba2 at 1620.3049990862512: start processing
+u: Cliente at 1620.948500401619: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 1620.948500401619: Bomba 1 escolhida para abastecimento
+u: Cliente at 1620.948500401619: start pausing
+u: Bomba1 at 1620.948500401619: start processing
+u: Bomba3 at 1634.6911286866828: event type 1 completed service
+u: Bomba3 at 1634.6911286866828: Veiculo enviado ao Pagamento
+u: Bomba3 at 1634.6911286866828: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 1634.6911286866828: selected event type 1 (event time was 923.7466120953219)
+u: Bomba3 at 1634.6911286866828: start processing
+u: Pagamento at 1642.0203545255745: event type 1 completed service
+u: Pagamento at 1642.0203545255745: Disk1 selected for I/O work.
+u: Pagamento at 1642.0203545255745: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 1642.0203545255745: selected event type 1 (event time was 673.9955172595118)
+u: Pagamento at 1642.0203545255745: start processing
+u: Saida at 1642.0203545255745: Cliente terminou
+u: Saida at 1642.0203545255745: start processing
+u: Bomba1 at 1645.254895855658: event type 1 completed service
+u: Bomba1 at 1645.254895855658: Veiculo enviado ao Pagamento
+u: Bomba1 at 1645.254895855658: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 1645.254895855658: waiting for an event
+u: Cliente at 1653.606415253471: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 1653.606415253471: Bomba 2 escolhida para abastecimento
+u: Cliente at 1653.606415253471: start pausing
+u: Cliente at 1657.3511577087686: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 1657.3511577087686: Bomba 3 escolhida para abastecimento
+u: Cliente at 1657.3511577087686: start pausing
+u: Bomba2 at 1658.9380191505452: event type 1 completed service
+u: Bomba2 at 1658.9380191505452: Veiculo enviado ao Pagamento
+u: Bomba2 at 1658.9380191505452: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 1658.9380191505452: selected event type 1 (event time was 1653.606415253471)
+u: Bomba2 at 1658.9380191505452: start processing
+u: Saida at 1668.404811515655: event type 1 completed service
+u: Saida at 1668.404811515655: waiting for an event
+u: Cliente at 1685.802116170279: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 1685.802116170279: Bomba 1 escolhida para abastecimento
+u: Cliente at 1685.802116170279: start pausing
+u: Bomba1 at 1685.802116170279: start processing
+u: Bomba2 at 1693.84999630007: event type 1 completed service
+u: Bomba2 at 1693.84999630007: Veiculo enviado ao Pagamento
+u: Bomba2 at 1693.84999630007: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 1693.84999630007: waiting for an event
+u: Pagamento at 1703.3874797825774: event type 1 completed service
+u: Pagamento at 1703.3874797825774: Disk1 selected for I/O work.
+u: Pagamento at 1703.3874797825774: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 1703.3874797825774: selected event type 1 (event time was 683.3008987051109)
+u: Pagamento at 1703.3874797825774: start processing
+u: Saida at 1703.3874797825774: Cliente terminou
+u: Saida at 1703.3874797825774: start processing
+u: Bomba1 at 1707.6439934655232: event type 1 completed service
+u: Bomba1 at 1707.6439934655232: Veiculo enviado ao Pagamento
+u: Bomba1 at 1707.6439934655232: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 1707.6439934655232: waiting for an event
+u: Cliente at 1726.3298151699053: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 1726.3298151699053: Bomba 3 escolhida para abastecimento
+u: Cliente at 1726.3298151699053: start pausing
+u: Cliente at 1731.9518238727267: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 1731.9518238727267: Bomba 2 escolhida para abastecimento
+u: Cliente at 1731.9518238727267: start pausing
+u: Bomba2 at 1731.9518238727267: start processing
+u: Bomba3 at 1732.9290515245227: event type 1 completed service
+u: Bomba3 at 1732.9290515245227: Veiculo enviado ao Pagamento
+u: Bomba3 at 1732.9290515245227: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 1732.9290515245227: selected event type 1 (event time was 1038.4550255716379)
+u: Bomba3 at 1732.9290515245227: start processing
+u: Saida at 1733.4033600912792: event type 1 completed service
+u: Saida at 1733.4033600912792: waiting for an event
+u: Cliente at 1746.4788468682457: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 1746.4788468682457: Bomba 1 escolhida para abastecimento
+u: Cliente at 1746.4788468682457: start pausing
+u: Bomba1 at 1746.4788468682457: start processing
+u: Cliente at 1750.4604999514822: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 1750.4604999514822: Bomba 2 escolhida para abastecimento
+u: Cliente at 1750.4604999514822: start pausing
+u: Pagamento at 1762.3556028072949: event type 1 completed service
+u: Pagamento at 1762.3556028072949: Disk1 selected for I/O work.
+u: Pagamento at 1762.3556028072949: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 1762.3556028072949: selected event type 1 (event time was 714.044004714304)
+u: Pagamento at 1762.3556028072949: start processing
+u: Saida at 1762.3556028072949: Cliente terminou
+u: Saida at 1762.3556028072949: start processing
+u: Bomba2 at 1771.6153983398485: event type 1 completed service
+u: Bomba2 at 1771.6153983398485: Veiculo enviado ao Pagamento
+u: Bomba2 at 1771.6153983398485: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 1771.6153983398485: selected event type 1 (event time was 1750.4604999514822)
+u: Bomba2 at 1771.6153983398485: start processing
+u: Bomba1 at 1774.3697575992323: event type 1 completed service
+u: Bomba1 at 1774.3697575992323: Veiculo enviado ao Pagamento
+u: Bomba1 at 1774.3697575992323: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 1774.3697575992323: waiting for an event
+u: Cliente at 1778.0011977411427: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 1778.0011977411427: Bomba 3 escolhida para abastecimento
+u: Cliente at 1778.0011977411427: start pausing
+u: Saida at 1791.1762829876675: event type 1 completed service
+u: Saida at 1791.1762829876675: waiting for an event
+u: Bomba2 at 1811.907704946963: event type 1 completed service
+u: Bomba2 at 1811.907704946963: Veiculo enviado ao Pagamento
+u: Bomba2 at 1811.907704946963: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 1811.907704946963: waiting for an event
+u: Cliente at 1821.2583263286044: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 1821.2583263286044: Bomba 1 escolhida para abastecimento
+u: Cliente at 1821.2583263286044: start pausing
+u: Bomba1 at 1821.2583263286044: start processing
+u: Pagamento at 1826.4425037425553: event type 1 completed service
+u: Pagamento at 1826.4425037425553: Disk1 selected for I/O work.
+u: Pagamento at 1826.4425037425553: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 1826.4425037425553: selected event type 1 (event time was 717.2786727080266)
+u: Pagamento at 1826.4425037425553: start processing
+u: Saida at 1826.4425037425553: Cliente terminou
+u: Saida at 1826.4425037425553: start processing
+u: Bomba3 at 1829.6219350552283: event type 1 completed service
+u: Bomba3 at 1829.6219350552283: Veiculo enviado ao Pagamento
+u: Bomba3 at 1829.6219350552283: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 1829.6219350552283: selected event type 1 (event time was 1059.436870987407)
+u: Bomba3 at 1829.6219350552283: start processing
+u: Cliente at 1833.0216778562374: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 1833.0216778562374: Bomba 3 escolhida para abastecimento
+u: Cliente at 1833.0216778562374: start pausing
+u: Cliente at 1835.7610079255599: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 1835.7610079255599: Bomba 2 escolhida para abastecimento
+u: Cliente at 1835.7610079255599: start pausing
+u: Bomba2 at 1835.7610079255599: start processing
+u: Bomba1 at 1845.398807651327: event type 1 completed service
+u: Bomba1 at 1845.398807651327: Veiculo enviado ao Pagamento
+u: Bomba1 at 1845.398807651327: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 1845.398807651327: waiting for an event
+u: Cliente at 1851.1262079499982: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 1851.1262079499982: Bomba 1 escolhida para abastecimento
+u: Cliente at 1851.1262079499982: start pausing
+u: Bomba1 at 1851.1262079499982: start processing
+u: Saida at 1856.8548739888815: event type 1 completed service
+u: Saida at 1856.8548739888815: waiting for an event
+u: Cliente at 1872.0185289961848: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 1872.0185289961848: Bomba 2 escolhida para abastecimento
+u: Cliente at 1872.0185289961848: start pausing
+u: Bomba1 at 1875.041488635001: event type 1 completed service
+u: Bomba1 at 1875.041488635001: Veiculo enviado ao Pagamento
+u: Bomba1 at 1875.041488635001: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 1875.041488635001: waiting for an event
+u: Bomba2 at 1876.6752053936766: event type 1 completed service
+u: Bomba2 at 1876.6752053936766: Veiculo enviado ao Pagamento
+u: Bomba2 at 1876.6752053936766: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 1876.6752053936766: selected event type 1 (event time was 1872.0185289961848)
+u: Bomba2 at 1876.6752053936766: start processing
+u: Pagamento at 1893.626595773198: event type 1 completed service
+u: Pagamento at 1893.626595773198: Disk1 selected for I/O work.
+u: Pagamento at 1893.626595773198: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 1893.626595773198: selected event type 1 (event time was 732.8234986935815)
+u: Pagamento at 1893.626595773198: start processing
+u: Saida at 1893.626595773198: Cliente terminou
+u: Saida at 1893.626595773198: start processing
+u: Cliente at 1896.5939054711546: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 1896.5939054711546: Bomba 3 escolhida para abastecimento
+u: Cliente at 1896.5939054711546: start pausing
+u: Cliente at 1909.109167668638: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 1909.109167668638: Bomba 1 escolhida para abastecimento
+u: Cliente at 1909.109167668638: start pausing
+u: Bomba1 at 1909.109167668638: start processing
+u: Bomba2 at 1914.7189908800833: event type 1 completed service
+u: Bomba2 at 1914.7189908800833: Veiculo enviado ao Pagamento
+u: Bomba2 at 1914.7189908800833: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 1914.7189908800833: waiting for an event
+u: Saida at 1923.5678254560135: event type 1 completed service
+u: Saida at 1923.5678254560135: waiting for an event
+u: Cliente at 1923.8233165099566: scheduling event type 1 for Bomba3 with delay 0.0
+u: Cliente at 1923.8233165099566: Bomba 3 escolhida para abastecimento
+u: Cliente at 1923.8233165099566: start pausing
+u: Bomba3 at 1930.9572470832295: event type 1 completed service
+u: Bomba3 at 1930.9572470832295: Veiculo enviado ao Pagamento
+u: Bomba3 at 1930.9572470832295: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 1930.9572470832295: selected event type 1 (event time was 1112.104603973399)
+u: Bomba3 at 1930.9572470832295: start processing
+u: Bomba1 at 1933.5837055202155: event type 1 completed service
+u: Bomba1 at 1933.5837055202155: Veiculo enviado ao Pagamento
+u: Bomba1 at 1933.5837055202155: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 1933.5837055202155: waiting for an event
+u: Pagamento at 1949.5558848559338: event type 1 completed service
+u: Pagamento at 1949.5558848559338: Disk1 selected for I/O work.
+u: Pagamento at 1949.5558848559338: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 1949.5558848559338: selected event type 1 (event time was 752.0725378188428)
+u: Pagamento at 1949.5558848559338: start processing
+u: Saida at 1949.5558848559338: Cliente terminou
+u: Saida at 1949.5558848559338: start processing
+u: Cliente at 1955.4995334478117: scheduling event type 1 for Bomba2 with delay 0.0
+u: Cliente at 1955.4995334478117: Bomba 2 escolhida para abastecimento
+u: Cliente at 1955.4995334478117: start pausing
+u: Bomba2 at 1955.4995334478117: start processing
+u: Saida at 1973.5958968557063: event type 1 completed service
+u: Saida at 1973.5958968557063: waiting for an event
+u: Cliente at 1978.286648586197: scheduling event type 1 for Bomba1 with delay 0.0
+u: Cliente at 1978.286648586197: Bomba 1 escolhida para abastecimento
+u: Cliente at 1978.286648586197: start pausing
+u: Bomba1 at 1978.286648586197: start processing
+u: Bomba2 at 1998.1295040356679: event type 1 completed service
+u: Bomba2 at 1998.1295040356679: Veiculo enviado ao Pagamento
+u: Bomba2 at 1998.1295040356679: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba2 at 1998.1295040356679: waiting for an event
+u: Bomba1 at 2007.0216208346028: event type 1 completed service
+u: Bomba1 at 2007.0216208346028: Veiculo enviado ao Pagamento
+u: Bomba1 at 2007.0216208346028: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba1 at 2007.0216208346028: waiting for an event
+u: Pagamento at 2012.5436890167146: event type 1 completed service
+u: Pagamento at 2012.5436890167146: Disk1 selected for I/O work.
+u: Pagamento at 2012.5436890167146: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 2012.5436890167146: selected event type 1 (event time was 764.2926279091798)
+u: Pagamento at 2012.5436890167146: start processing
+u: Saida at 2012.5436890167146: Cliente terminou
+u: Saida at 2012.5436890167146: start processing
+u: Bomba3 at 2036.0350272585454: event type 1 completed service
+u: Bomba3 at 2036.0350272585454: Veiculo enviado ao Pagamento
+u: Bomba3 at 2036.0350272585454: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 2036.0350272585454: selected event type 1 (event time was 1133.1616576295087)
+u: Bomba3 at 2036.0350272585454: start processing
+u: Saida at 2042.7344168493812: event type 1 completed service
+u: Saida at 2042.7344168493812: waiting for an event
+u: Pagamento at 2071.4752056094017: event type 1 completed service
+u: Pagamento at 2071.4752056094017: Disk1 selected for I/O work.
+u: Pagamento at 2071.4752056094017: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 2071.4752056094017: selected event type 1 (event time was 790.7085314662847)
+u: Pagamento at 2071.4752056094017: start processing
+u: Saida at 2071.4752056094017: Cliente terminou
+u: Saida at 2071.4752056094017: start processing
+u: Saida at 2093.8168070634474: event type 1 completed service
+u: Saida at 2093.8168070634474: waiting for an event
+u: Pagamento at 2138.3474982698112: event type 1 completed service
+u: Pagamento at 2138.3474982698112: Disk1 selected for I/O work.
+u: Pagamento at 2138.3474982698112: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 2138.3474982698112: selected event type 1 (event time was 806.4622622888592)
+u: Pagamento at 2138.3474982698112: start processing
+u: Saida at 2138.3474982698112: Cliente terminou
+u: Saida at 2138.3474982698112: start processing
+u: Bomba3 at 2141.2033022153723: event type 1 completed service
+u: Bomba3 at 2141.2033022153723: Veiculo enviado ao Pagamento
+u: Bomba3 at 2141.2033022153723: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 2141.2033022153723: selected event type 1 (event time was 1173.87658530206)
+u: Bomba3 at 2141.2033022153723: start processing
+u: Saida at 2165.751681926724: event type 1 completed service
+u: Saida at 2165.751681926724: waiting for an event
+u: Pagamento at 2205.290534241075: event type 1 completed service
+u: Pagamento at 2205.290534241075: Disk1 selected for I/O work.
+u: Pagamento at 2205.290534241075: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 2205.290534241075: selected event type 1 (event time was 831.1255657124092)
+u: Pagamento at 2205.290534241075: start processing
+u: Saida at 2205.290534241075: Cliente terminou
+u: Saida at 2205.290534241075: start processing
+u: Saida at 2231.345718133917: event type 1 completed service
+u: Saida at 2231.345718133917: waiting for an event
+u: Bomba3 at 2241.8079360450215: event type 1 completed service
+u: Bomba3 at 2241.8079360450215: Veiculo enviado ao Pagamento
+u: Bomba3 at 2241.8079360450215: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 2241.8079360450215: selected event type 1 (event time was 1196.1654388903792)
+u: Bomba3 at 2241.8079360450215: start processing
+u: Pagamento at 2264.1052623311275: event type 1 completed service
+u: Pagamento at 2264.1052623311275: Disk1 selected for I/O work.
+u: Pagamento at 2264.1052623311275: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 2264.1052623311275: selected event type 1 (event time was 834.4535207057228)
+u: Pagamento at 2264.1052623311275: start processing
+u: Saida at 2264.1052623311275: Cliente terminou
+u: Saida at 2264.1052623311275: start processing
+u: Saida at 2291.3756986440044: event type 1 completed service
+u: Saida at 2291.3756986440044: waiting for an event
+u: Pagamento at 2324.616214938106: event type 1 completed service
+u: Pagamento at 2324.616214938106: Disk1 selected for I/O work.
+u: Pagamento at 2324.616214938106: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 2324.616214938106: selected event type 1 (event time was 848.3721874655399)
+u: Pagamento at 2324.616214938106: start processing
+u: Saida at 2324.616214938106: Cliente terminou
+u: Saida at 2324.616214938106: start processing
+u: Bomba3 at 2343.6688788611123: event type 1 completed service
+u: Bomba3 at 2343.6688788611123: Veiculo enviado ao Pagamento
+u: Bomba3 at 2343.6688788611123: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 2343.6688788611123: selected event type 1 (event time was 1248.935711772576)
+u: Bomba3 at 2343.6688788611123: start processing
+u: Saida at 2354.682224035406: event type 1 completed service
+u: Saida at 2354.682224035406: waiting for an event
+u: Pagamento at 2385.1436958124655: event type 1 completed service
+u: Pagamento at 2385.1436958124655: Disk1 selected for I/O work.
+u: Pagamento at 2385.1436958124655: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 2385.1436958124655: selected event type 1 (event time was 900.6145095119032)
+u: Pagamento at 2385.1436958124655: start processing
+u: Saida at 2385.1436958124655: Cliente terminou
+u: Saida at 2385.1436958124655: start processing
+u: Saida at 2411.650163071757: event type 1 completed service
+u: Saida at 2411.650163071757: waiting for an event
+u: Pagamento at 2446.0822745508412: event type 1 completed service
+u: Pagamento at 2446.0822745508412: Disk1 selected for I/O work.
+u: Pagamento at 2446.0822745508412: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 2446.0822745508412: selected event type 1 (event time was 939.1783596925337)
+u: Pagamento at 2446.0822745508412: start processing
+u: Saida at 2446.0822745508412: Cliente terminou
+u: Saida at 2446.0822745508412: start processing
+u: Bomba3 at 2452.175763405557: event type 1 completed service
+u: Bomba3 at 2452.175763405557: Veiculo enviado ao Pagamento
+u: Bomba3 at 2452.175763405557: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 2452.175763405557: selected event type 1 (event time was 1292.9389192511258)
+u: Bomba3 at 2452.175763405557: start processing
+u: Saida at 2481.6009146737365: event type 1 completed service
+u: Saida at 2481.6009146737365: waiting for an event
+u: Pagamento at 2505.4071934437056: event type 1 completed service
+u: Pagamento at 2505.4071934437056: Disk1 selected for I/O work.
+u: Pagamento at 2505.4071934437056: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 2505.4071934437056: selected event type 1 (event time was 943.7707415202547)
+u: Pagamento at 2505.4071934437056: start processing
+u: Saida at 2505.4071934437056: Cliente terminou
+u: Saida at 2505.4071934437056: start processing
+u: Saida at 2537.32233054179: event type 1 completed service
+u: Saida at 2537.32233054179: waiting for an event
+u: Bomba3 at 2555.043757924729: event type 1 completed service
+u: Bomba3 at 2555.043757924729: Veiculo enviado ao Pagamento
+u: Bomba3 at 2555.043757924729: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 2555.043757924729: selected event type 1 (event time was 1578.6022208157551)
+u: Bomba3 at 2555.043757924729: start processing
+u: Pagamento at 2570.376819526641: event type 1 completed service
+u: Pagamento at 2570.376819526641: Disk1 selected for I/O work.
+u: Pagamento at 2570.376819526641: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 2570.376819526641: selected event type 1 (event time was 981.3123882432926)
+u: Pagamento at 2570.376819526641: start processing
+u: Saida at 2570.376819526641: Cliente terminou
+u: Saida at 2570.376819526641: start processing
+u: Saida at 2599.2013511757586: event type 1 completed service
+u: Saida at 2599.2013511757586: waiting for an event
+u: Pagamento at 2632.081607404188: event type 1 completed service
+u: Pagamento at 2632.081607404188: Disk1 selected for I/O work.
+u: Pagamento at 2632.081607404188: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 2632.081607404188: selected event type 1 (event time was 1033.5998393890536)
+u: Pagamento at 2632.081607404188: start processing
+u: Saida at 2632.081607404188: Cliente terminou
+u: Saida at 2632.081607404188: start processing
+u: Bomba3 at 2655.243359079015: event type 1 completed service
+u: Bomba3 at 2655.243359079015: Veiculo enviado ao Pagamento
+u: Bomba3 at 2655.243359079015: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 2655.243359079015: selected event type 1 (event time was 1606.9655266090085)
+u: Bomba3 at 2655.243359079015: start processing
+u: Saida at 2660.972983299511: event type 1 completed service
+u: Saida at 2660.972983299511: waiting for an event
+u: Pagamento at 2695.5496099960233: event type 1 completed service
+u: Pagamento at 2695.5496099960233: Disk1 selected for I/O work.
+u: Pagamento at 2695.5496099960233: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 2695.5496099960233: selected event type 1 (event time was 1038.4781217745262)
+u: Pagamento at 2695.5496099960233: start processing
+u: Saida at 2695.5496099960233: Cliente terminou
+u: Saida at 2695.5496099960233: start processing
+u: Saida at 2728.8890715274574: event type 1 completed service
+u: Saida at 2728.8890715274574: waiting for an event
+u: Pagamento at 2754.7877757134565: event type 1 completed service
+u: Pagamento at 2754.7877757134565: Disk1 selected for I/O work.
+u: Pagamento at 2754.7877757134565: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 2754.7877757134565: selected event type 1 (event time was 1070.6643814954823)
+u: Pagamento at 2754.7877757134565: start processing
+u: Saida at 2754.7877757134565: Cliente terminou
+u: Saida at 2754.7877757134565: start processing
+u: Bomba3 at 2760.776252209339: event type 1 completed service
+u: Bomba3 at 2760.776252209339: Veiculo enviado ao Pagamento
+u: Bomba3 at 2760.776252209339: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 2760.776252209339: selected event type 1 (event time was 1657.3511577087686)
+u: Bomba3 at 2760.776252209339: start processing
+u: Saida at 2786.897666346901: event type 1 completed service
+u: Saida at 2786.897666346901: waiting for an event
+u: Pagamento at 2815.1235758817375: event type 1 completed service
+u: Pagamento at 2815.1235758817375: Disk1 selected for I/O work.
+u: Pagamento at 2815.1235758817375: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 2815.1235758817375: selected event type 1 (event time was 1077.7654834850243)
+u: Pagamento at 2815.1235758817375: start processing
+u: Saida at 2815.1235758817375: Cliente terminou
+u: Saida at 2815.1235758817375: start processing
+u: Saida at 2850.104361267564: event type 1 completed service
+u: Saida at 2850.104361267564: waiting for an event
+u: Bomba3 at 2859.8691070504888: event type 1 completed service
+u: Bomba3 at 2859.8691070504888: Veiculo enviado ao Pagamento
+u: Bomba3 at 2859.8691070504888: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 2859.8691070504888: selected event type 1 (event time was 1726.3298151699053)
+u: Bomba3 at 2859.8691070504888: start processing
+u: Pagamento at 2873.971831505403: event type 1 completed service
+u: Pagamento at 2873.971831505403: Disk1 selected for I/O work.
+u: Pagamento at 2873.971831505403: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 2873.971831505403: selected event type 1 (event time was 1114.9897727743792)
+u: Pagamento at 2873.971831505403: start processing
+u: Saida at 2873.971831505403: Cliente terminou
+u: Saida at 2873.971831505403: start processing
+u: Saida at 2903.7648025074072: event type 1 completed service
+u: Saida at 2903.7648025074072: waiting for an event
+u: Pagamento at 2927.647235107811: event type 1 completed service
+u: Pagamento at 2927.647235107811: Disk1 selected for I/O work.
+u: Pagamento at 2927.647235107811: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 2927.647235107811: selected event type 1 (event time was 1115.6270199646017)
+u: Pagamento at 2927.647235107811: start processing
+u: Saida at 2927.647235107811: Cliente terminou
+u: Saida at 2927.647235107811: start processing
+u: Saida at 2957.6237845500896: event type 1 completed service
+u: Saida at 2957.6237845500896: waiting for an event
+u: Bomba3 at 2971.3175909984484: event type 1 completed service
+u: Bomba3 at 2971.3175909984484: Veiculo enviado ao Pagamento
+u: Bomba3 at 2971.3175909984484: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 2971.3175909984484: selected event type 1 (event time was 1778.0011977411427)
+u: Bomba3 at 2971.3175909984484: start processing
+u: Pagamento at 2990.9809741161994: event type 1 completed service
+u: Pagamento at 2990.9809741161994: Disk1 selected for I/O work.
+u: Pagamento at 2990.9809741161994: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 2990.9809741161994: selected event type 1 (event time was 1134.899122412981)
+u: Pagamento at 2990.9809741161994: start processing
+u: Saida at 2990.9809741161994: Cliente terminou
+u: Saida at 2990.9809741161994: start processing
+u: Saida at 3013.5281966980897: event type 1 completed service
+u: Saida at 3013.5281966980897: waiting for an event
+u: Pagamento at 3050.737458415122: event type 1 completed service
+u: Pagamento at 3050.737458415122: Disk1 selected for I/O work.
+u: Pagamento at 3050.737458415122: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 3050.737458415122: selected event type 1 (event time was 1146.0429644810608)
+u: Pagamento at 3050.737458415122: start processing
+u: Saida at 3050.737458415122: Cliente terminou
+u: Saida at 3050.737458415122: start processing
+u: Saida at 3073.1290631075854: event type 1 completed service
+u: Saida at 3073.1290631075854: waiting for an event
+u: Bomba3 at 3073.666319919367: event type 1 completed service
+u: Bomba3 at 3073.666319919367: Veiculo enviado ao Pagamento
+u: Bomba3 at 3073.666319919367: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 3073.666319919367: selected event type 1 (event time was 1833.0216778562374)
+u: Bomba3 at 3073.666319919367: start processing
+u: Pagamento at 3108.7476159385046: event type 1 completed service
+u: Pagamento at 3108.7476159385046: Disk1 selected for I/O work.
+u: Pagamento at 3108.7476159385046: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 3108.7476159385046: selected event type 1 (event time was 1152.1023387472808)
+u: Pagamento at 3108.7476159385046: start processing
+u: Saida at 3108.7476159385046: Cliente terminou
+u: Saida at 3108.7476159385046: start processing
+u: Saida at 3135.2788966684034: event type 1 completed service
+u: Saida at 3135.2788966684034: waiting for an event
+u: Pagamento at 3170.142023430317: event type 1 completed service
+u: Pagamento at 3170.142023430317: Disk1 selected for I/O work.
+u: Pagamento at 3170.142023430317: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 3170.142023430317: selected event type 1 (event time was 1185.718615396346)
+u: Pagamento at 3170.142023430317: start processing
+u: Saida at 3170.142023430317: Cliente terminou
+u: Saida at 3170.142023430317: start processing
+u: Bomba3 at 3174.444105073794: event type 1 completed service
+u: Bomba3 at 3174.444105073794: Veiculo enviado ao Pagamento
+u: Bomba3 at 3174.444105073794: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 3174.444105073794: selected event type 1 (event time was 1896.5939054711546)
+u: Bomba3 at 3174.444105073794: start processing
+u: Saida at 3195.9473367464443: event type 1 completed service
+u: Saida at 3195.9473367464443: waiting for an event
+u: Pagamento at 3231.6235914210665: event type 1 completed service
+u: Pagamento at 3231.6235914210665: Disk1 selected for I/O work.
+u: Pagamento at 3231.6235914210665: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 3231.6235914210665: selected event type 1 (event time was 1196.0436659509837)
+u: Pagamento at 3231.6235914210665: start processing
+u: Saida at 3231.6235914210665: Cliente terminou
+u: Saida at 3231.6235914210665: start processing
+u: Saida at 3265.460324102022: event type 1 completed service
+u: Saida at 3265.460324102022: waiting for an event
+u: Bomba3 at 3274.1156190530323: event type 1 completed service
+u: Bomba3 at 3274.1156190530323: Veiculo enviado ao Pagamento
+u: Bomba3 at 3274.1156190530323: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 3274.1156190530323: selected event type 1 (event time was 1923.8233165099566)
+u: Bomba3 at 3274.1156190530323: start processing
+u: Pagamento at 3295.4716719614166: event type 1 completed service
+u: Pagamento at 3295.4716719614166: Disk1 selected for I/O work.
+u: Pagamento at 3295.4716719614166: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 3295.4716719614166: selected event type 1 (event time was 1203.9889316458814)
+u: Pagamento at 3295.4716719614166: start processing
+u: Saida at 3295.4716719614166: Cliente terminou
+u: Saida at 3295.4716719614166: start processing
+u: Saida at 3331.18234225039: event type 1 completed service
+u: Saida at 3331.18234225039: waiting for an event
+u: Pagamento at 3357.341803018812: event type 1 completed service
+u: Pagamento at 3357.341803018812: Disk1 selected for I/O work.
+u: Pagamento at 3357.341803018812: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 3357.341803018812: selected event type 1 (event time was 1234.826251249446)
+u: Pagamento at 3357.341803018812: start processing
+u: Saida at 3357.341803018812: Cliente terminou
+u: Saida at 3357.341803018812: start processing
+u: Bomba3 at 3375.722599211168: event type 1 completed service
+u: Bomba3 at 3375.722599211168: Veiculo enviado ao Pagamento
+u: Bomba3 at 3375.722599211168: scheduling event type 1 for Pagamento with delay 0.0
+u: Bomba3 at 3375.722599211168: waiting for an event
+u: Saida at 3389.200959956817: event type 1 completed service
+u: Saida at 3389.200959956817: waiting for an event
+u: Pagamento at 3417.2886477546313: event type 1 completed service
+u: Pagamento at 3417.2886477546313: Disk1 selected for I/O work.
+u: Pagamento at 3417.2886477546313: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 3417.2886477546313: selected event type 1 (event time was 1235.815363101377)
+u: Pagamento at 3417.2886477546313: start processing
+u: Saida at 3417.2886477546313: Cliente terminou
+u: Saida at 3417.2886477546313: start processing
+u: Saida at 3451.582748140947: event type 1 completed service
+u: Saida at 3451.582748140947: waiting for an event
+u: Pagamento at 3477.894670176011: event type 1 completed service
+u: Pagamento at 3477.894670176011: Disk1 selected for I/O work.
+u: Pagamento at 3477.894670176011: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 3477.894670176011: selected event type 1 (event time was 1245.0065067024896)
+u: Pagamento at 3477.894670176011: start processing
+u: Saida at 3477.894670176011: Cliente terminou
+u: Saida at 3477.894670176011: start processing
+u: Saida at 3509.252009813789: event type 1 completed service
+u: Saida at 3509.252009813789: waiting for an event
+u: Pagamento at 3530.015491415365: event type 1 completed service
+u: Pagamento at 3530.015491415365: Disk1 selected for I/O work.
+u: Pagamento at 3530.015491415365: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 3530.015491415365: selected event type 1 (event time was 1274.6124488906453)
+u: Pagamento at 3530.015491415365: start processing
+u: Saida at 3530.015491415365: Cliente terminou
+u: Saida at 3530.015491415365: start processing
+u: Saida at 3560.5192036503618: event type 1 completed service
+u: Saida at 3560.5192036503618: waiting for an event
+u: Pagamento at 3586.5234238322123: event type 1 completed service
+u: Pagamento at 3586.5234238322123: Disk1 selected for I/O work.
+u: Pagamento at 3586.5234238322123: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 3586.5234238322123: selected event type 1 (event time was 1313.1771777651695)
+u: Pagamento at 3586.5234238322123: start processing
+u: Saida at 3586.5234238322123: Cliente terminou
+u: Saida at 3586.5234238322123: start processing
+u: Saida at 3613.3371395322542: event type 1 completed service
+u: Saida at 3613.3371395322542: waiting for an event
+u: Pagamento at 3642.43368133765: event type 1 completed service
+u: Pagamento at 3642.43368133765: Disk1 selected for I/O work.
+u: Pagamento at 3642.43368133765: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 3642.43368133765: selected event type 1 (event time was 1315.292698853143)
+u: Pagamento at 3642.43368133765: start processing
+u: Saida at 3642.43368133765: Cliente terminou
+u: Saida at 3642.43368133765: start processing
+u: Saida at 3675.8541575638637: event type 1 completed service
+u: Saida at 3675.8541575638637: waiting for an event
+u: Pagamento at 3701.272181647618: event type 1 completed service
+u: Pagamento at 3701.272181647618: Disk1 selected for I/O work.
+u: Pagamento at 3701.272181647618: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 3701.272181647618: selected event type 1 (event time was 1338.0382491555215)
+u: Pagamento at 3701.272181647618: start processing
+u: Saida at 3701.272181647618: Cliente terminou
+u: Saida at 3701.272181647618: start processing
+u: Saida at 3727.1539868313644: event type 1 completed service
+u: Saida at 3727.1539868313644: waiting for an event
+u: Pagamento at 3763.445138001974: event type 1 completed service
+u: Pagamento at 3763.445138001974: Disk1 selected for I/O work.
+u: Pagamento at 3763.445138001974: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 3763.445138001974: selected event type 1 (event time was 1415.6804941656633)
+u: Pagamento at 3763.445138001974: start processing
+u: Saida at 3763.445138001974: Cliente terminou
+u: Saida at 3763.445138001974: start processing
+u: Saida at 3790.4012481095233: event type 1 completed service
+u: Saida at 3790.4012481095233: waiting for an event
+u: Pagamento at 3820.433692991687: event type 1 completed service
+u: Pagamento at 3820.433692991687: Disk1 selected for I/O work.
+u: Pagamento at 3820.433692991687: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 3820.433692991687: selected event type 1 (event time was 1442.792991999859)
+u: Pagamento at 3820.433692991687: start processing
+u: Saida at 3820.433692991687: Cliente terminou
+u: Saida at 3820.433692991687: start processing
+u: Saida at 3852.5572525742987: event type 1 completed service
+u: Saida at 3852.5572525742987: waiting for an event
+u: Pagamento at 3881.3802720340755: event type 1 completed service
+u: Pagamento at 3881.3802720340755: Disk1 selected for I/O work.
+u: Pagamento at 3881.3802720340755: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 3881.3802720340755: selected event type 1 (event time was 1467.6126677857126)
+u: Pagamento at 3881.3802720340755: start processing
+u: Saida at 3881.3802720340755: Cliente terminou
+u: Saida at 3881.3802720340755: start processing
+u: Saida at 3910.3159703515516: event type 1 completed service
+u: Saida at 3910.3159703515516: waiting for an event
+u: Pagamento at 3942.5354586045205: event type 1 completed service
+u: Pagamento at 3942.5354586045205: Disk1 selected for I/O work.
+u: Pagamento at 3942.5354586045205: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 3942.5354586045205: selected event type 1 (event time was 1506.1000315052897)
+u: Pagamento at 3942.5354586045205: start processing
+u: Saida at 3942.5354586045205: Cliente terminou
+u: Saida at 3942.5354586045205: start processing
+u: Saida at 3970.3146338014258: event type 1 completed service
+u: Saida at 3970.3146338014258: waiting for an event
+u: Pagamento at 4000.0297316809956: event type 1 completed service
+u: Pagamento at 4000.0297316809956: Disk1 selected for I/O work.
+u: Pagamento at 4000.0297316809956: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 4000.0297316809956: selected event type 1 (event time was 1538.1090671996112)
+u: Pagamento at 4000.0297316809956: start processing
+u: Saida at 4000.0297316809956: Cliente terminou
+u: Saida at 4000.0297316809956: start processing
+u: Saida at 4027.935004047955: event type 1 completed service
+u: Saida at 4027.935004047955: waiting for an event
+u: Pagamento at 4057.5188825964738: event type 1 completed service
+u: Pagamento at 4057.5188825964738: Disk1 selected for I/O work.
+u: Pagamento at 4057.5188825964738: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 4057.5188825964738: selected event type 1 (event time was 1620.270287955564)
+u: Pagamento at 4057.5188825964738: start processing
+u: Saida at 4057.5188825964738: Cliente terminou
+u: Saida at 4057.5188825964738: start processing
+u: Saida at 4085.431187414217: event type 1 completed service
+u: Saida at 4085.431187414217: waiting for an event
+u: Pagamento at 4119.783779012436: event type 1 completed service
+u: Pagamento at 4119.783779012436: Disk1 selected for I/O work.
+u: Pagamento at 4119.783779012436: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 4119.783779012436: selected event type 1 (event time was 1634.6911286866828)
+u: Pagamento at 4119.783779012436: start processing
+u: Saida at 4119.783779012436: Cliente terminou
+u: Saida at 4119.783779012436: start processing
+u: Saida at 4150.746251940737: event type 1 completed service
+u: Saida at 4150.746251940737: waiting for an event
+u: Pagamento at 4185.177230198925: event type 1 completed service
+u: Pagamento at 4185.177230198925: Disk1 selected for I/O work.
+u: Pagamento at 4185.177230198925: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 4185.177230198925: selected event type 1 (event time was 1645.254895855658)
+u: Pagamento at 4185.177230198925: start processing
+u: Saida at 4185.177230198925: Cliente terminou
+u: Saida at 4185.177230198925: start processing
+u: Saida at 4214.300246753046: event type 1 completed service
+u: Saida at 4214.300246753046: waiting for an event
+u: Pagamento at 4246.381257075677: event type 1 completed service
+u: Pagamento at 4246.381257075677: Disk1 selected for I/O work.
+u: Pagamento at 4246.381257075677: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 4246.381257075677: selected event type 1 (event time was 1658.9380191505452)
+u: Pagamento at 4246.381257075677: start processing
+u: Saida at 4246.381257075677: Cliente terminou
+u: Saida at 4246.381257075677: start processing
+u: Saida at 4274.334331142123: event type 1 completed service
+u: Saida at 4274.334331142123: waiting for an event
+u: Pagamento at 4311.286779489516: event type 1 completed service
+u: Pagamento at 4311.286779489516: Disk1 selected for I/O work.
+u: Pagamento at 4311.286779489516: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 4311.286779489516: selected event type 1 (event time was 1693.84999630007)
+u: Pagamento at 4311.286779489516: start processing
+u: Saida at 4311.286779489516: Cliente terminou
+u: Saida at 4311.286779489516: start processing
+u: Saida at 4344.439630142624: event type 1 completed service
+u: Saida at 4344.439630142624: waiting for an event
+u: Pagamento at 4370.331326979136: event type 1 completed service
+u: Pagamento at 4370.331326979136: Disk1 selected for I/O work.
+u: Pagamento at 4370.331326979136: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 4370.331326979136: selected event type 1 (event time was 1707.6439934655232)
+u: Pagamento at 4370.331326979136: start processing
+u: Saida at 4370.331326979136: Cliente terminou
+u: Saida at 4370.331326979136: start processing
+u: Saida at 4400.996112542382: event type 1 completed service
+u: Saida at 4400.996112542382: waiting for an event
+u: Pagamento at 4427.6590390315505: event type 1 completed service
+u: Pagamento at 4427.6590390315505: Disk1 selected for I/O work.
+u: Pagamento at 4427.6590390315505: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 4427.6590390315505: selected event type 1 (event time was 1732.9290515245227)
+u: Pagamento at 4427.6590390315505: start processing
+u: Saida at 4427.6590390315505: Cliente terminou
+u: Saida at 4427.6590390315505: start processing
+u: Saida at 4459.3729568863955: event type 1 completed service
+u: Saida at 4459.3729568863955: waiting for an event
+u: Pagamento at 4490.517796105278: event type 1 completed service
+u: Pagamento at 4490.517796105278: Disk1 selected for I/O work.
+u: Pagamento at 4490.517796105278: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 4490.517796105278: selected event type 1 (event time was 1771.6153983398485)
+u: Pagamento at 4490.517796105278: start processing
+u: Saida at 4490.517796105278: Cliente terminou
+u: Saida at 4490.517796105278: start processing
+u: Saida at 4522.808683935952: event type 1 completed service
+u: Saida at 4522.808683935952: waiting for an event
+u: Pagamento at 4550.658362325327: event type 1 completed service
+u: Pagamento at 4550.658362325327: Disk1 selected for I/O work.
+u: Pagamento at 4550.658362325327: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 4550.658362325327: selected event type 1 (event time was 1774.3697575992323)
+u: Pagamento at 4550.658362325327: start processing
+u: Saida at 4550.658362325327: Cliente terminou
+u: Saida at 4550.658362325327: start processing
+u: Saida at 4581.087158064176: event type 1 completed service
+u: Saida at 4581.087158064176: waiting for an event
+u: Pagamento at 4614.0457134919325: event type 1 completed service
+u: Pagamento at 4614.0457134919325: Disk1 selected for I/O work.
+u: Pagamento at 4614.0457134919325: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 4614.0457134919325: selected event type 1 (event time was 1811.907704946963)
+u: Pagamento at 4614.0457134919325: start processing
+u: Saida at 4614.0457134919325: Cliente terminou
+u: Saida at 4614.0457134919325: start processing
+u: Saida at 4640.874343218952: event type 1 completed service
+u: Saida at 4640.874343218952: waiting for an event
+u: Pagamento at 4672.565027924816: event type 1 completed service
+u: Pagamento at 4672.565027924816: Disk1 selected for I/O work.
+u: Pagamento at 4672.565027924816: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 4672.565027924816: selected event type 1 (event time was 1829.6219350552283)
+u: Pagamento at 4672.565027924816: start processing
+u: Saida at 4672.565027924816: Cliente terminou
+u: Saida at 4672.565027924816: start processing
+u: Saida at 4701.282963801644: event type 1 completed service
+u: Saida at 4701.282963801644: waiting for an event
+u: Pagamento at 4730.459570789015: event type 1 completed service
+u: Pagamento at 4730.459570789015: Disk1 selected for I/O work.
+u: Pagamento at 4730.459570789015: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 4730.459570789015: selected event type 1 (event time was 1845.398807651327)
+u: Pagamento at 4730.459570789015: start processing
+u: Saida at 4730.459570789015: Cliente terminou
+u: Saida at 4730.459570789015: start processing
+u: Saida at 4756.688049387199: event type 1 completed service
+u: Saida at 4756.688049387199: waiting for an event
+u: Pagamento at 4786.5604539036585: event type 1 completed service
+u: Pagamento at 4786.5604539036585: Disk1 selected for I/O work.
+u: Pagamento at 4786.5604539036585: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 4786.5604539036585: selected event type 1 (event time was 1875.041488635001)
+u: Pagamento at 4786.5604539036585: start processing
+u: Saida at 4786.5604539036585: Cliente terminou
+u: Saida at 4786.5604539036585: start processing
+u: Saida at 4814.192601054635: event type 1 completed service
+u: Saida at 4814.192601054635: waiting for an event
+u: Pagamento at 4845.377568306577: event type 1 completed service
+u: Pagamento at 4845.377568306577: Disk1 selected for I/O work.
+u: Pagamento at 4845.377568306577: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 4845.377568306577: selected event type 1 (event time was 1876.6752053936766)
+u: Pagamento at 4845.377568306577: start processing
+u: Saida at 4845.377568306577: Cliente terminou
+u: Saida at 4845.377568306577: start processing
+u: Saida at 4869.973011429523: event type 1 completed service
+u: Saida at 4869.973011429523: waiting for an event
+u: Pagamento at 4902.255516189988: event type 1 completed service
+u: Pagamento at 4902.255516189988: Disk1 selected for I/O work.
+u: Pagamento at 4902.255516189988: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 4902.255516189988: selected event type 1 (event time was 1914.7189908800833)
+u: Pagamento at 4902.255516189988: start processing
+u: Saida at 4902.255516189988: Cliente terminou
+u: Saida at 4902.255516189988: start processing
+u: Saida at 4938.524750053361: event type 1 completed service
+u: Saida at 4938.524750053361: waiting for an event
+u: Pagamento at 4963.55454617171: event type 1 completed service
+u: Pagamento at 4963.55454617171: Disk1 selected for I/O work.
+u: Pagamento at 4963.55454617171: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 4963.55454617171: selected event type 1 (event time was 1930.9572470832295)
+u: Pagamento at 4963.55454617171: start processing
+u: Saida at 4963.55454617171: Cliente terminou
+u: Saida at 4963.55454617171: start processing
+u: Saida at 4991.2875477634225: event type 1 completed service
+u: Saida at 4991.2875477634225: waiting for an event
+u: Pagamento at 5024.477123871766: event type 1 completed service
+u: Pagamento at 5024.477123871766: Disk1 selected for I/O work.
+u: Pagamento at 5024.477123871766: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 5024.477123871766: selected event type 1 (event time was 1933.5837055202155)
+u: Pagamento at 5024.477123871766: start processing
+u: Saida at 5024.477123871766: Cliente terminou
+u: Saida at 5024.477123871766: start processing
+u: Saida at 5057.829142597989: event type 1 completed service
+u: Saida at 5057.829142597989: waiting for an event
+u: Pagamento at 5082.247435025514: event type 1 completed service
+u: Pagamento at 5082.247435025514: Disk1 selected for I/O work.
+u: Pagamento at 5082.247435025514: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 5082.247435025514: selected event type 1 (event time was 1998.1295040356679)
+u: Pagamento at 5082.247435025514: start processing
+u: Saida at 5082.247435025514: Cliente terminou
+u: Saida at 5082.247435025514: start processing
+u: Saida at 5113.550770541206: event type 1 completed service
+u: Saida at 5113.550770541206: waiting for an event
+u: Pagamento at 5143.746961446763: event type 1 completed service
+u: Pagamento at 5143.746961446763: Disk1 selected for I/O work.
+u: Pagamento at 5143.746961446763: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 5143.746961446763: selected event type 1 (event time was 2007.0216208346028)
+u: Pagamento at 5143.746961446763: start processing
+u: Saida at 5143.746961446763: Cliente terminou
+u: Saida at 5143.746961446763: start processing
+u: Saida at 5179.217297847055: event type 1 completed service
+u: Saida at 5179.217297847055: waiting for an event
+u: Pagamento at 5203.611535961867: event type 1 completed service
+u: Pagamento at 5203.611535961867: Disk1 selected for I/O work.
+u: Pagamento at 5203.611535961867: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 5203.611535961867: selected event type 1 (event time was 2036.0350272585454)
+u: Pagamento at 5203.611535961867: start processing
+u: Saida at 5203.611535961867: Cliente terminou
+u: Saida at 5203.611535961867: start processing
+u: Saida at 5237.701629155866: event type 1 completed service
+u: Saida at 5237.701629155866: waiting for an event
+u: Pagamento at 5263.318535402935: event type 1 completed service
+u: Pagamento at 5263.318535402935: Disk1 selected for I/O work.
+u: Pagamento at 5263.318535402935: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 5263.318535402935: selected event type 1 (event time was 2141.2033022153723)
+u: Pagamento at 5263.318535402935: start processing
+u: Saida at 5263.318535402935: Cliente terminou
+u: Saida at 5263.318535402935: start processing
+u: Saida at 5295.083296580138: event type 1 completed service
+u: Saida at 5295.083296580138: waiting for an event
+u: Pagamento at 5325.354895937491: event type 1 completed service
+u: Pagamento at 5325.354895937491: Disk1 selected for I/O work.
+u: Pagamento at 5325.354895937491: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 5325.354895937491: selected event type 1 (event time was 2241.8079360450215)
+u: Pagamento at 5325.354895937491: start processing
+u: Saida at 5325.354895937491: Cliente terminou
+u: Saida at 5325.354895937491: start processing
+u: Saida at 5355.451281090478: event type 1 completed service
+u: Saida at 5355.451281090478: waiting for an event
+u: Pagamento at 5383.332869313421: event type 1 completed service
+u: Pagamento at 5383.332869313421: Disk1 selected for I/O work.
+u: Pagamento at 5383.332869313421: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 5383.332869313421: selected event type 1 (event time was 2343.6688788611123)
+u: Pagamento at 5383.332869313421: start processing
+u: Saida at 5383.332869313421: Cliente terminou
+u: Saida at 5383.332869313421: start processing
+u: Saida at 5411.22752750653: event type 1 completed service
+u: Saida at 5411.22752750653: waiting for an event
+u: Pagamento at 5444.522080746835: event type 1 completed service
+u: Pagamento at 5444.522080746835: Disk1 selected for I/O work.
+u: Pagamento at 5444.522080746835: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 5444.522080746835: selected event type 1 (event time was 2452.175763405557)
+u: Pagamento at 5444.522080746835: start processing
+u: Saida at 5444.522080746835: Cliente terminou
+u: Saida at 5444.522080746835: start processing
+u: Saida at 5476.076819662412: event type 1 completed service
+u: Saida at 5476.076819662412: waiting for an event
+u: Pagamento at 5501.677540727693: event type 1 completed service
+u: Pagamento at 5501.677540727693: Disk1 selected for I/O work.
+u: Pagamento at 5501.677540727693: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 5501.677540727693: selected event type 1 (event time was 2555.043757924729)
+u: Pagamento at 5501.677540727693: start processing
+u: Saida at 5501.677540727693: Cliente terminou
+u: Saida at 5501.677540727693: start processing
+u: Saida at 5532.126770022505: event type 1 completed service
+u: Saida at 5532.126770022505: waiting for an event
+u: Pagamento at 5560.942746396129: event type 1 completed service
+u: Pagamento at 5560.942746396129: Disk1 selected for I/O work.
+u: Pagamento at 5560.942746396129: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 5560.942746396129: selected event type 1 (event time was 2655.243359079015)
+u: Pagamento at 5560.942746396129: start processing
+u: Saida at 5560.942746396129: Cliente terminou
+u: Saida at 5560.942746396129: start processing
+u: Saida at 5594.898157048711: event type 1 completed service
+u: Saida at 5594.898157048711: waiting for an event
+u: Pagamento at 5621.426658816256: event type 1 completed service
+u: Pagamento at 5621.426658816256: Disk1 selected for I/O work.
+u: Pagamento at 5621.426658816256: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 5621.426658816256: selected event type 1 (event time was 2760.776252209339)
+u: Pagamento at 5621.426658816256: start processing
+u: Saida at 5621.426658816256: Cliente terminou
+u: Saida at 5621.426658816256: start processing
+u: Saida at 5656.772853528883: event type 1 completed service
+u: Saida at 5656.772853528883: waiting for an event
+u: Pagamento at 5683.867340064335: event type 1 completed service
+u: Pagamento at 5683.867340064335: Disk1 selected for I/O work.
+u: Pagamento at 5683.867340064335: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 5683.867340064335: selected event type 1 (event time was 2859.8691070504888)
+u: Pagamento at 5683.867340064335: start processing
+u: Saida at 5683.867340064335: Cliente terminou
+u: Saida at 5683.867340064335: start processing
+u: Saida at 5712.142027383756: event type 1 completed service
+u: Saida at 5712.142027383756: waiting for an event
+u: Pagamento at 5747.54916508531: event type 1 completed service
+u: Pagamento at 5747.54916508531: Disk1 selected for I/O work.
+u: Pagamento at 5747.54916508531: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 5747.54916508531: selected event type 1 (event time was 2971.3175909984484)
+u: Pagamento at 5747.54916508531: start processing
+u: Saida at 5747.54916508531: Cliente terminou
+u: Saida at 5747.54916508531: start processing
+u: Saida at 5776.468980249472: event type 1 completed service
+u: Saida at 5776.468980249472: waiting for an event
+u: Pagamento at 5805.517386603155: event type 1 completed service
+u: Pagamento at 5805.517386603155: Disk1 selected for I/O work.
+u: Pagamento at 5805.517386603155: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 5805.517386603155: selected event type 1 (event time was 3073.666319919367)
+u: Pagamento at 5805.517386603155: start processing
+u: Saida at 5805.517386603155: Cliente terminou
+u: Saida at 5805.517386603155: start processing
+u: Saida at 5835.5441394053905: event type 1 completed service
+u: Saida at 5835.5441394053905: waiting for an event
+u: Pagamento at 5861.701894075625: event type 1 completed service
+u: Pagamento at 5861.701894075625: Disk1 selected for I/O work.
+u: Pagamento at 5861.701894075625: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 5861.701894075625: selected event type 1 (event time was 3174.444105073794)
+u: Pagamento at 5861.701894075625: start processing
+u: Saida at 5861.701894075625: Cliente terminou
+u: Saida at 5861.701894075625: start processing
+u: Saida at 5890.2234228180505: event type 1 completed service
+u: Saida at 5890.2234228180505: waiting for an event
+u: Pagamento at 5925.661722316361: event type 1 completed service
+u: Pagamento at 5925.661722316361: Disk1 selected for I/O work.
+u: Pagamento at 5925.661722316361: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 5925.661722316361: selected event type 1 (event time was 3274.1156190530323)
+u: Pagamento at 5925.661722316361: start processing
+u: Saida at 5925.661722316361: Cliente terminou
+u: Saida at 5925.661722316361: start processing
+u: Saida at 5956.14517146976: event type 1 completed service
+u: Saida at 5956.14517146976: waiting for an event
+u: Pagamento at 5981.017608592684: event type 1 completed service
+u: Pagamento at 5981.017608592684: Disk1 selected for I/O work.
+u: Pagamento at 5981.017608592684: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 5981.017608592684: selected event type 1 (event time was 3375.722599211168)
+u: Pagamento at 5981.017608592684: start processing
+u: Saida at 5981.017608592684: Cliente terminou
+u: Saida at 5981.017608592684: start processing
+u: Saida at 6015.963821903133: event type 1 completed service
+u: Saida at 6015.963821903133: waiting for an event
+u: Pagamento at 6044.28534413872: event type 1 completed service
+u: Pagamento at 6044.28534413872: Disk1 selected for I/O work.
+u: Pagamento at 6044.28534413872: scheduling event type 1 for Saida with delay 0.0
+u: Pagamento at 6044.28534413872: waiting for an event
+u: Saida at 6044.28534413872: Cliente terminou
+u: Saida at 6044.28534413872: start processing
+u: Saida at 6076.544189083175: event type 1 completed service
+u: Saida at 6076.544189083175: waiting for an event
+u: Bomba1 at 6076.544189083175: Veiculo enviado ao Pagamento
+u: Bomba2 at 6076.544189083175: Veiculo enviado ao Pagamento
+u: Bomba3 at 6076.544189083175: Veiculo enviado ao Pagamento
+u: Pagamento at 6076.544189083175: Disk1 selected for I/O work.
+u: Saida at 6076.544189083175: Cliente terminou

@@ -1,0 +1,78 @@
+############################################################
+#                                                          #
+#                    SIMULATION REPORT                     #
+#                                                          #
+############################################################
+
+Version: SimJava 2.0
+
+Simulation date:         29 de Junho de 2018
+Simulation start time:   21h9min44s GMT-03:00
+Simulation end time:     21h9min44s GMT-03:00
+
+############################################################
+#            Overall simulation run information            #
+############################################################
+
+Total simulated time:    6076.544189083175
+Total transient time:    0.0
+Total steady state time: 6076.544189083175
+Transient condition:     None
+Termination condition:   None
+Output analysis method:  None
+
+############################################################
+#               Simulation run measurements                #
+############################################################
+
+-------------------------- Bomba1 --------------------------
+
+- Throughput
+
+Sample mean:          0.00559528556726087
+Event count:          34
+
+- Residence time
+
+Sample mean:          24.688820091338297
+Sample variance:      Not available in efficient mode
+Sample std deviation: Not available in efficient mode
+Maximum:              28.831496411772832
+Minimum:              20.553591871714502
+
+-------------------------- Bomba2 --------------------------
+
+- Throughput
+
+Sample mean:          0.005430718344694374
+Event count:          33
+
+- Residence time
+
+Sample mean:          50.07577805341805
+Sample variance:      Not available in efficient mode
+Sample std deviation: Not available in efficient mode
+Maximum:              79.06775031968908
+Minimum:              30.732976458403925
+
+-------------------------- Bomba3 --------------------------
+
+- Throughput
+
+Sample mean:          0.005430718344694374
+Event count:          33
+
+- Residence time
+
+Sample mean:          790.9511680717388
+Sample variance:      Not available in efficient mode
+Sample std deviation: Not available in efficient mode
+Maximum:              1451.8992827012114
+Minimum:              99.5099329230515
+
+------------------------ Pagamento -------------------------
+
+- Utilisation
+
+Sample mean:          0.9908840223255998
+
